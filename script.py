@@ -55,8 +55,6 @@ fig = go.Figure(data=go.Scattergeo(
 
 fig.update_layout(
         geo_scope = 'world',
-        autosize = True,
-        margin = dict(t=0, b=0, l=0, r=0),
         )
 
 
