@@ -1,4 +1,4 @@
-name: Manual Profile Updater
+name: Manual A350 Data Trigger
 
 on: workflow_dispatch
 
