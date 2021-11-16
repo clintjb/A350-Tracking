@@ -2,3 +2,4 @@ datetime
 plotly
 requests
 pandas
+kaleido
