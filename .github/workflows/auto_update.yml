@@ -1,4 +1,4 @@
-name: Profile Updater
+name: Automatic A350 Data Trigger
 
 on:
   schedule:
