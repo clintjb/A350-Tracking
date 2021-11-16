@@ -1,5 +1,4 @@
 datetime
 plotly
 requests
-json
 pandas
