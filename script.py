@@ -60,7 +60,8 @@ fig.update_layout(
 
 # Prepare Dataset For Export
 data_export = flight_data_a350[['callsign','model','serialnumber','baro_altitude','on_ground']]
-data_export['Export'] = datetime.today().strftime('%d-%m-%Y')
+data_export['serialnumber'] = data_export['serialnumber'].astype(str).apply(lambda x: x.replace('.0',''))
+data_export['Export'] = datetime.today().strftime('%d/%m/%Y, %H:%M')
 data_export.rename(columns = {'callsign': 'A/C', 'model': 'Type', 'baro_altitude': 'Altitude', 'on_ground': 'Grounded', 'serialnumber': 'MSN'}, inplace=True)
 
 
