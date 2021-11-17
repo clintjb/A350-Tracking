@@ -69,3 +69,4 @@ data_export.rename(columns = {'callsign': 'A/C', 'model': 'Type', 'baro_altitude
 data_export.to_csv('flight_data_a350.csv', index=False)
 fig.write_image("flight_data_a350.png", width=1280, height=720)
 fig.write_html("flight_data_a350.html")
+fig.write_html("https://github.com/clintjb/clintjb.github.io/tree/master/_includes/flight_data_a350.html")
