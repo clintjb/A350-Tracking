@@ -1,5 +1,10 @@
 name: File Push
-on: gollum
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+    
 jobs:
   copy:
     runs-on: ubuntu-latest
