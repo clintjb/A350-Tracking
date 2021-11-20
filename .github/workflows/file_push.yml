@@ -1,8 +1,18 @@
-- name: Copy
-  uses: andstor/copycat-action@v3
-  with:
-    personal_token: ${{ secrets.API_TOKEN_GITHUB }}
-    src_path: /.
-    dst_path: /_data/
-    dst_owner: clintjb
-    dst_repo_name: clintjb/clintjb.github.io
+name: File Push
+on: gollum
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Copycat
+      uses: andstor/copycat-action@v3
+      with:
+        personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+        src_path: /.
+        dst_path: /_data/
+        dst_owner: clintjb
+        dst_repo_name: clintjb.github.io
+        dst_branch: master
+        src_branch: master
+        username: clintjb
+        email: clintjb@gmail.com
