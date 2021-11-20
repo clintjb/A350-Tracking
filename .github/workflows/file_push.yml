@@ -1,22 +1,8 @@
-name: File Push
-
-on: push
-
-jobs:
-  copy-file:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
-    - name: Pushes test file
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-      with:
-        source_file: 'flight_data_a350.csv'
-        destination_repo: 'clintjb/clintjb.github.io'
-        destination_folder: ''
-        user_email: 'clintjb@gmail.com'
-        user_name: 'clintjb'
-        commit_message: 'A350 Data Push'
+- name: Copy
+  uses: andstor/copycat-action@v3
+  with:
+    personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+    src_path: /.
+    dst_path: /_data/
+    dst_owner: clintjb
+    dst_repo_name: clintjb/clintjb.github.io
