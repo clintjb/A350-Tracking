@@ -16,7 +16,7 @@ jobs:
       with:
         source_file: 'flight_data_a350.csv'
         destination_repo: 'clintjb/clintjb.github.io'
-        destination_folder: '_data/'
+        destination_folder: ''
         user_email: 'clintjb@gmail.com'
         user_name: 'clintjb'
         commit_message: 'A350 Data Push'
