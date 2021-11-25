@@ -1,2 +1,22 @@
-- name: Push a file to another repository
-  uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+name: File Push
+
+on: workflow_dispatch
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'flight_data_a350.csv'
+        destination_repo: 'clintjb/clintjb.github.io'
+        destination_folder: '_data'
+        user_email: 'clintjb@gmail.com'
+        user_name: 'clintjb'
+        commit_message: 'A350 Push'
