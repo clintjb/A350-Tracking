@@ -9,25 +9,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - uses: actions/cache@v2
+      - name: Cache dependencies
+        uses: actions/cache@v2
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-      - name: Setting up Python
+            
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.9"
           architecture: "x64"
 
-      - name: Running Scripts
-        run: |
-          pip install -r requirements.txt
-          python script.py
+      - name: Install packages
+        run: pip install -r requirements.txt
+        
+      - name: Run script
+        run: python script.py       
+
+      - name: Commit and push changes
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
