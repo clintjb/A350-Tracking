@@ -14,7 +14,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_file: 'output/'
+        source_file: 'output/*'
         destination_repo: 'clintjb/clintjb.github.io'
         destination_folder: '_data'
         user_email: 'clintjb@gmail.com'
