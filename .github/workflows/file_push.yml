@@ -14,9 +14,10 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_file: 'flight_data_a350.csv'
+        source_file: 'output/flight_data_a350.csv'
         destination_repo: 'clintjb/clintjb.github.io'
         destination_folder: 'files'
         user_email: 'clintjb@gmail.com'
         user_name: 'clintjb'
+        destination_branch: 'master'
         commit_message: 'A350 Push'
