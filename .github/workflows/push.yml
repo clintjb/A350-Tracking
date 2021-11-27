@@ -20,7 +20,7 @@ jobs:
         with:
           source-directory: 'output'
           destination-github-username: 'clintjb'
-          destination-repository-name: 'clintjb.github.io'
+          destination-repository-name: 'clintjb/clintjb.github.io'
           user-email: clintjb@gmail.com
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
           target-branch: main
