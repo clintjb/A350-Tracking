@@ -66,6 +66,6 @@ data_export.rename(columns = {'registration': 'A/C', 'model': 'Type', 'operatorp
 
 
 # Export Data
-data_export.to_csv('flight_data_a350.csv', index=False)
+data_export.to_csv('_data/flight_data_a350.csv', index=False)
+fig.write_html("_data/flight_data_a350.html")
 fig.write_image("flight_data_a350.png", width=1280, height=720)
-fig.write_html("flight_data_a350.html")
