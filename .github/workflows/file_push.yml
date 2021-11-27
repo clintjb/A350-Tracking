@@ -16,7 +16,7 @@ jobs:
       with:
         source_file: 'output/flight_data_a350.csv'
         destination_repo: 'clintjb/clintjb.github.io'
-        destination_folder: 'files'
+        destination_folder: '_data'
         user_email: 'clintjb@gmail.com'
         user_name: 'clintjb'
         destination_branch: 'master'
