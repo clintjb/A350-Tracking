@@ -50,7 +50,8 @@ fig = go.Figure(data=go.Scattergeo(
             cmin = 0,
             color = flight_data_a350['baro_altitude'],
             cmax = flight_data_a350['baro_altitude'].max(),
-            colorbar_title="Alititude"
+            colorbar_title="Alititude",
+            showscale = False
         )))
 
 fig.update_layout(
