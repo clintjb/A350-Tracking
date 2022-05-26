@@ -59,6 +59,11 @@ fig = go.Figure(data=go.Scattergeo(
 fig.update_layout(
         geo_scope = 'world',
         coloraxis_showscale = False,
+        layout_showlegend=False,
+        showlegend=False,
+        showscale = False,
+        showcolorbar=False,
+        colorbar=False,
         )
 
 
