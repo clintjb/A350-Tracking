@@ -20,7 +20,7 @@ response = requests.get(url_data).json()
 
 # Load Response Into Data Frame
 column_names = ['icao24','callsign','origin_country','time_position','last_contact','long','lat','baro_altitude','on_ground','velocity',       
-'true_track','vertical_rate','sensors','geo_altitude','squawk','spi','position_source','dummy']
+'true_track','vertical_rate','sensors','geo_altitude','squawk','spi','position_source']
 flight_data = pd.DataFrame(response['states'],columns = column_names)
 
 
