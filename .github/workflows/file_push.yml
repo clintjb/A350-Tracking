@@ -20,5 +20,5 @@ jobs:
         destination_repo: 'clintjb/clintjb.github.io'
         user_email: 'clintjb@gmail.com'
         user_name: 'clintjb'
-        destination_branch: 'master'
+        destination_branch: 'main'
         commit_message: 'A350 Push'
