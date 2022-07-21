@@ -1,21 +1,33 @@
 A/C,Type,MSN,Operator,Grounded,Export
-B-LRM,A350-941,75,Cathay Pacific,False,21/07/2022 - 00:57
-B-LRF,A350-941,46,Cathay Pacific,False,21/07/2022 - 00:57
-OH-LWE,A350-941,23,Finnair,False,21/07/2022 - 00:57
-EC-NIS,A350-941,406,Iberia,False,21/07/2022 - 00:57
-9V-SHP,A350-941,436,Singapore Airlines,False,21/07/2022 - 00:57
-9V-SHK,A350-941,369,Singapore Airlines,False,21/07/2022 - 00:57
-G-XWBG,A350-1041,432,British Airways,False,21/07/2022 - 00:57
-N504DN,A350-941,160,Delta,False,21/07/2022 - 00:57
-B-18902,A350-941,57,China Airlines,False,21/07/2022 - 00:57
-A7-ALY,A350-941,132,Qatar,False,21/07/2022 - 00:57
-A7-AMJ,A350-941,237,Qatar,False,21/07/2022 - 00:57
-D-AIXF,A350-941,146,Lufthansa,False,21/07/2022 - 00:57
-D-AIXP,A350-941,390,Lufthansa,False,21/07/2022 - 00:57
-D-AIXL,A350-941,255,Lufthansa,False,21/07/2022 - 00:57
-9V-SMI,A350-941,77,Singapore Airlines,False,21/07/2022 - 00:57
-9V-SMT,A350-941,170,Singapore Airlines,False,21/07/2022 - 00:57
-G-XWBB,A350-1041,340,British Airways,False,21/07/2022 - 00:57
-G-XWBE,A350-1041,386,British Airways,False,21/07/2022 - 00:57
-F-HREV,A350-941,193,French Bee,False,21/07/2022 - 00:57
-F-HREY,A350-941,325,French Bee,False,21/07/2022 - 00:57
+TC-LGA,A350-941,403,Turkish Airlines,False,21/07/2022 - 04:35
+N501DN,A350-941,115,Delta,False,21/07/2022 - 04:35
+B-LRE,A350-941,39,Cathay Pacific,False,21/07/2022 - 04:35
+EC-NGT,A350-941,366,Iberia,False,21/07/2022 - 04:35
+9V-SHI,A350-941,322,Singapore Airlines,False,21/07/2022 - 04:35
+B-18905,A350-941,73,China Airlines,False,21/07/2022 - 04:35
+F-HTYH,A350-941,488,Air France,False,21/07/2022 - 04:35
+F-HTYG,A350-941,479,Air France,False,21/07/2022 - 04:35
+A7-ALZ,A350-941,12,Qatar,False,21/07/2022 - 04:35
+A7-ANP,A350-1041,372,Qatar,False,21/07/2022 - 04:35
+A7-ALU,A350-941,100,Qatar,False,21/07/2022 - 04:35
+A7-ALO,A350-941,63,Qatar,False,21/07/2022 - 04:35
+HS-THH,A350-941,142,Thai Airways,False,21/07/2022 - 04:35
+HS-THE,A350-941,111,Thai Airways,False,21/07/2022 - 04:35
+HS-THD,A350-941,95,Thai Airways,False,21/07/2022 - 04:35
+D-AIXB,A350-941,80,Lufthansa,False,21/07/2022 - 04:35
+D-AIXI,A350-941,202,Lufthansa,False,21/07/2022 - 04:35
+D-AIXO,A350-941,314,Lufthansa,False,21/07/2022 - 04:35
+D-AIXL,A350-941,255,Lufthansa,False,21/07/2022 - 04:35
+B-1083,A350-941,217,Air China,False,21/07/2022 - 04:35
+G-VLUX,A350-1041,274,Virgin,False,21/07/2022 - 04:35
+9V-SMH,A350-941,68,Singapore Airlines,False,21/07/2022 - 04:35
+9V-SMI,A350-941,77,Singapore Airlines,False,21/07/2022 - 04:35
+9V-SMT,A350-941,170,Singapore Airlines,False,21/07/2022 - 04:35
+9V-SMY,A350-941,344,Singapore Airlines,False,21/07/2022 - 04:35
+9V-SMM,A350-941,99,Singapore Airlines,False,21/07/2022 - 04:35
+9V-SMJ,A350-941,81,Singapore Airlines,True,21/07/2022 - 04:35
+9V-SMO,A350-941,116,Singapore Airlines,False,21/07/2022 - 04:35
+G-XWBE,A350-1041,386,British Airways,False,21/07/2022 - 04:35
+F-HREV,A350-941,193,French Bee,False,21/07/2022 - 04:35
+F-HREY,A350-941,325,French Bee,False,21/07/2022 - 04:35
+HL7578,A350-941,144,Asiana Airlines,False,21/07/2022 - 04:35
