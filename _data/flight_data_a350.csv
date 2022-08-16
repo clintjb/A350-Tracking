@@ -1,7 +1,34 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXB,A350-941,80,Lufthansa,False,16/08/2022 - 16:13
-D-AIXD,A350-941,127,Lufthansa,False,16/08/2022 - 16:13
-D-AIXC,A350-941,87,Lufthansa,False,16/08/2022 - 16:13
-EC-NGY,A350-941,400,Evelop Airlines,False,16/08/2022 - 16:13
-G-XWBG,A350-1041,432,British Airways,False,16/08/2022 - 16:13
-B-18908,A350-941,121,China Airlines,False,16/08/2022 - 16:13
+D-AIXE,A350-941,136,Lufthansa,False,16/08/2022 - 20:11
+D-AIXH,A350-941,184,Lufthansa,False,16/08/2022 - 20:11
+D-AIXP,A350-941,390,Lufthansa,False,16/08/2022 - 20:11
+N505DN,A350-941,164,Delta,False,16/08/2022 - 20:11
+TC-LGA,A350-941,403,Turkish Airlines,False,16/08/2022 - 20:11
+B-LRK,A350-941,70,Cathay Pacific,False,16/08/2022 - 20:11
+OH-LWC,A350-941,20,Finnair,False,16/08/2022 - 20:11
+EC-NIG,A350-941,397,Iberia,False,16/08/2022 - 20:11
+OH-LWI,A350-941,104,Finnair,False,16/08/2022 - 20:11
+9V-SHP,A350-941,436,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SHN,A350-941,385,Singapore Airlines,False,16/08/2022 - 20:11
+G-XWBF,A350-1041,402,British Airways,True,16/08/2022 - 20:11
+9V-SMB,A350-941,30,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SME,A350-941,41,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SMQ,A350-941,133,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SMY,A350-941,344,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SML,A350-941,96,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SMK,A350-941,84,Singapore Airlines,False,16/08/2022 - 20:11
+9V-SMO,A350-941,116,Singapore Airlines,False,16/08/2022 - 20:11
+B-18903,A350-941,66,China Airlines,False,16/08/2022 - 20:11
+B-18908,A350-941,121,China Airlines,False,16/08/2022 - 20:11
+F-HTYG,A350-941,479,Air France,False,16/08/2022 - 20:11
+B-LXL,A350-1041,306,Cathay Pacific,False,16/08/2022 - 20:11
+A7-ANK,A350-1041,332,Qatar,False,16/08/2022 - 20:11
+A7-ANP,A350-1041,372,Qatar,False,16/08/2022 - 20:11
+A7-ANN,A350-1041,356,Qatar,False,16/08/2022 - 20:11
+A7-ALR,A350-941,78,Qatar,False,16/08/2022 - 20:11
+A7-ALS,A350-941,83,Qatar,False,16/08/2022 - 20:11
+A7-ALN,A350-941,47,Qatar,False,16/08/2022 - 20:11
+A7-ALO,A350-941,63,Qatar,False,16/08/2022 - 20:11
+HS-THD,A350-941,95,Thai Airways,False,16/08/2022 - 20:11
+HS-THC,A350-941,50,Thai Airways,False,16/08/2022 - 20:11
+A7-ALK,A350-941,33,Qatar,True,16/08/2022 - 20:11
