@@ -1,22 +1,42 @@
 A/C,Type,MSN,Operator,Grounded,Export
-B-18901,A350-941,49,China Airlines,False,07/12/2022 - 00:47
-D-AIXM,A350-941,287,Lufthansa,False,07/12/2022 - 00:47
-G-XWBC,A350-1041,362,British Airways,False,07/12/2022 - 00:47
-G-XWBE,A350-1041,386,British Airways,False,07/12/2022 - 00:47
-B-18909,A350-941,138,China Airlines,False,07/12/2022 - 00:47
-B-18907,A350-941,105,China Airlines,False,07/12/2022 - 00:47
-TC-LGA,A350-941,403,Turkish Airlines,True,07/12/2022 - 00:47
-F-HTYC,A350-941,359,Air France,False,07/12/2022 - 00:47
-F-HTYD,A350-941,381,Air France,False,07/12/2022 - 00:47
-HL7579,A350-941,176,Asiana Airlines,False,07/12/2022 - 00:47
-EC-NGT,A350-941,366,Iberia,False,07/12/2022 - 00:47
-OH-LWC,A350-941,20,Finnair,False,07/12/2022 - 00:47
-OH-LWD,A350-941,22,Finnair,False,07/12/2022 - 00:47
-EC-NIS,A350-941,406,Iberia,False,07/12/2022 - 00:47
-OH-LWI,A350-941,104,Finnair,False,07/12/2022 - 00:47
-VN-A890,A350-941,56,Vietnam Airlines,False,07/12/2022 - 00:47
-A7-ALY,A350-941,132,Qatar,False,07/12/2022 - 00:47
-9V-SHU,A350-941,469,Singapore Airlines,False,07/12/2022 - 00:47
-A7-ALN,A350-941,47,Qatar,False,07/12/2022 - 00:47
-HS-THF,A350-941,123,Thai Airways,False,07/12/2022 - 00:47
-A7-AMJ,A350-941,237,Qatar,False,07/12/2022 - 00:47
+G-VLUX,A350-1041,274,Virgin,False,07/12/2022 - 04:11
+G-VPOP,A350-1041,298,Virgin,False,07/12/2022 - 04:11
+B-18902,A350-941,57,China Airlines,False,07/12/2022 - 04:11
+9V-SMC,A350-941,31,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMB,A350-941,30,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMF,A350-941,54,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMQ,A350-941,133,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMS,A350-941,158,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMJ,A350-941,81,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMN,A350-941,107,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SMO,A350-941,116,Singapore Airlines,True,07/12/2022 - 04:11
+B-18903,A350-941,66,China Airlines,False,07/12/2022 - 04:11
+D-AIXF,A350-941,146,Lufthansa,False,07/12/2022 - 04:11
+D-AIXI,A350-941,202,Lufthansa,False,07/12/2022 - 04:11
+D-AIXJ,A350-941,209,Lufthansa,False,07/12/2022 - 04:11
+D-AIXL,A350-941,255,Lufthansa,False,07/12/2022 - 04:11
+G-XWBB,A350-1041,340,British Airways,False,07/12/2022 - 04:11
+G-XWBE,A350-1041,386,British Airways,False,07/12/2022 - 04:11
+3B-NBP,A350-941,145,Air Mauritius,False,07/12/2022 - 04:11
+EC-NBO,A350-941,293,Iberojet,True,07/12/2022 - 04:11
+B-LRA,A350-941,29,Cathay Pacific,False,07/12/2022 - 04:11
+TC-LGA,A350-941,403,Turkish Airlines,False,07/12/2022 - 04:11
+F-HTYI,A350-941,491,Air France,False,07/12/2022 - 04:11
+F-HTYC,A350-941,359,Air France,False,07/12/2022 - 04:11
+F-HTYF,A350-941,422,Air France,False,07/12/2022 - 04:11
+F-HTYK,A350-941,502,Air France,False,07/12/2022 - 04:11
+B-LXK,A350-1041,296,Cathay Pacific,False,07/12/2022 - 04:11
+VN-A892,A350-941,86,Vietnam Airlines,False,07/12/2022 - 04:11
+B-LRJ,A350-941,61,Cathay Pacific,False,07/12/2022 - 04:11
+OH-LWH,A350-941,97,Finnair,False,07/12/2022 - 04:11
+OH-LWF,A350-941,28,Finnair,True,07/12/2022 - 04:11
+A7-ANK,A350-1041,332,Qatar,False,07/12/2022 - 04:11
+A7-ANA,A350-1041,88,Qatar,False,07/12/2022 - 04:11
+9V-SHP,A350-941,436,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SHQ,A350-941,439,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SHU,A350-941,469,Singapore Airlines,False,07/12/2022 - 04:11
+9V-SHN,A350-941,385,Singapore Airlines,False,07/12/2022 - 04:11
+A7-ALN,A350-941,47,Qatar,False,07/12/2022 - 04:11
+A7-ALM,A350-941,42,Qatar,False,07/12/2022 - 04:11
+HS-THE,A350-941,111,Thai Airways,False,07/12/2022 - 04:11
+G-XWBG,A350-1041,432,British Airways,False,07/12/2022 - 04:11
