@@ -1,29 +1,42 @@
 A/C,Type,MSN,Operator,Grounded,Export
-G-VLUX,A350-1041,274,Virgin,False,19/01/2023 - 00:47
-G-VPOP,A350-1041,298,Virgin,False,19/01/2023 - 00:47
-9V-SMY,A350-941,344,Singapore Airlines,False,19/01/2023 - 00:47
-9V-SMO,A350-941,116,Singapore Airlines,False,19/01/2023 - 00:47
-B-18903,A350-941,66,China Airlines,False,19/01/2023 - 00:47
-D-AIXI,A350-941,202,Lufthansa,False,19/01/2023 - 00:47
-D-AIXH,A350-941,184,Lufthansa,False,19/01/2023 - 00:47
-D-AIXG,A350-941,174,Lufthansa,False,19/01/2023 - 00:47
-D-AIXK,A350-941,212,Lufthansa,False,19/01/2023 - 00:47
-G-XWBC,A350-1041,362,British Airways,False,19/01/2023 - 00:47
-HL8078,A350-941,94,Asiana Airlines,False,19/01/2023 - 00:47
-B-18909,A350-941,138,China Airlines,False,19/01/2023 - 00:47
-F-HTYI,A350-941,491,Air France,False,19/01/2023 - 00:47
-B-LRT,A350-941,137,Cathay Pacific,False,19/01/2023 - 00:47
-B-LQB,A350-941,337,Cathay Pacific,False,19/01/2023 - 00:47
-B-LXK,A350-1041,296,Cathay Pacific,False,19/01/2023 - 00:47
-VN-A893,A350-941,129,Vietnam Airlines,False,19/01/2023 - 00:47
-B-LRS,A350-941,128,Cathay Pacific,True,19/01/2023 - 00:47
-EC-NGT,A350-941,366,Iberia,False,19/01/2023 - 00:47
-OH-LWG,A350-941,51,Finnair,False,19/01/2023 - 00:47
-OH-LWH,A350-941,97,Finnair,False,19/01/2023 - 00:47
-OH-LWC,A350-941,20,Finnair,False,19/01/2023 - 00:47
-OH-LWK,A350-941,113,Finnair,False,19/01/2023 - 00:47
-G-XWBE,A350-1041,386,British Airways,False,19/01/2023 - 00:47
-A7-ANN,A350-1041,356,Qatar,False,19/01/2023 - 00:47
-9V-SHU,A350-941,469,Singapore Airlines,False,19/01/2023 - 00:47
-G-XWBF,A350-1041,402,British Airways,False,19/01/2023 - 00:47
-G-XWBG,A350-1041,432,British Airways,False,19/01/2023 - 00:47
+ET-ATQ,A350-941,40,Etheopian,False,19/01/2023 - 04:11
+G-VJAM,A350-1041,336,Virgin,False,19/01/2023 - 04:11
+9V-SMH,A350-941,68,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMF,A350-941,54,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMP,A350-941,122,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMR,A350-941,140,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMS,A350-941,158,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMY,A350-941,344,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMK,A350-941,84,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SMN,A350-941,107,Singapore Airlines,False,19/01/2023 - 04:11
+D-AIXB,A350-941,80,Lufthansa,False,19/01/2023 - 04:11
+D-AIXA,A350-941,74,Lufthansa,False,19/01/2023 - 04:11
+D-AIXD,A350-941,127,Lufthansa,False,19/01/2023 - 04:11
+D-AIXP,A350-941,390,Lufthansa,False,19/01/2023 - 04:11
+D-AIXN,A350-941,292,Lufthansa,False,19/01/2023 - 04:11
+N503DN,A350-941,149,Delta,False,19/01/2023 - 04:11
+F-HTYH,A350-941,488,Air France,False,19/01/2023 - 04:11
+F-HTYI,A350-941,491,Air France,False,19/01/2023 - 04:11
+F-HTYC,A350-941,359,Air France,False,19/01/2023 - 04:11
+F-HTYG,A350-941,479,Air France,False,19/01/2023 - 04:11
+B-LRT,A350-941,137,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRX,A350-941,155,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRU,A350-941,148,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRV,A350-941,154,Cathay Pacific,True,19/01/2023 - 04:11
+B-LQB,A350-941,337,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRB,A350-941,32,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRN,A350-941,85,Cathay Pacific,False,19/01/2023 - 04:11
+B-LRP,A350-941,101,Cathay Pacific,False,19/01/2023 - 04:11
+OH-LWG,A350-941,51,Finnair,False,19/01/2023 - 04:11
+OH-LWD,A350-941,22,Finnair,True,19/01/2023 - 04:11
+OH-LWE,A350-941,23,Finnair,False,19/01/2023 - 04:11
+EC-NIG,A350-941,397,Iberia,False,19/01/2023 - 04:11
+OH-LWK,A350-941,113,Finnair,False,19/01/2023 - 04:11
+VN-A890,A350-941,56,Vietnam Airlines,False,19/01/2023 - 04:11
+G-XWBE,A350-1041,386,British Airways,False,19/01/2023 - 04:11
+9V-SHP,A350-941,436,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SHL,A350-941,371,Singapore Airlines,False,19/01/2023 - 04:11
+9V-SHQ,A350-941,439,Singapore Airlines,False,19/01/2023 - 04:11
+G-XWBF,A350-1041,402,British Airways,True,19/01/2023 - 04:11
+A7-ALS,A350-941,83,Qatar,False,19/01/2023 - 04:11
+HS-THD,A350-941,95,Thai Airways,False,19/01/2023 - 04:11
