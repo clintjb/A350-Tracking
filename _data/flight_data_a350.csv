@@ -1,15 +1,6 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXH,A350-941,184,Lufthansa,False,06/04/2023 - 08:11
-F-WMIL,A350-1041,59,Airbus Industries,True,06/04/2023 - 08:11
-N512DN,A350-941,267,Delta,False,06/04/2023 - 08:11
-B-LRC,A350-941,34,Cathay Pacific,False,06/04/2023 - 08:11
-G-XWBE,A350-1041,386,British Airways,False,06/04/2023 - 08:11
-9V-SHL,A350-941,371,Singapore Airlines,False,06/04/2023 - 08:11
-G-XWBG,A350-1041,432,British Airways,False,06/04/2023 - 08:11
-F-HNET,A350-941,91,French West,False,06/04/2023 - 08:11
-9V-SMT,A350-941,170,Singapore Airlines,False,06/04/2023 - 08:11
-G-XWBB,A350-1041,340,British Airways,False,06/04/2023 - 08:11
-B-LRT,A350-941,137,Cathay Pacific,True,06/04/2023 - 08:11
-A7-ANK,A350-1041,332,Qatar,False,06/04/2023 - 08:11
-A7-AND,A350-1041,125,Qatar,False,06/04/2023 - 08:11
-HS-THH,A350-941,142,Thai Airways,False,06/04/2023 - 08:11
+D-AIXB,A350-941,80,Lufthansa,False,06/04/2023 - 12:15
+D-AIXK,A350-941,212,Lufthansa,False,06/04/2023 - 12:15
+B-LRQ,A350-941,109,Cathay Pacific,True,06/04/2023 - 12:15
+G-VLUX,A350-1041,274,Virgin,False,06/04/2023 - 12:15
+B-LQB,A350-941,337,Cathay Pacific,False,06/04/2023 - 12:15
