@@ -1,33 +1,20 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXD,A350-941,127,Lufthansa,True,19/04/2023 - 04:10
-N505DN,A350-941,164,Delta,False,19/04/2023 - 04:10
-3B-NBP,A350-941,145,Air Mauritius,False,19/04/2023 - 04:10
-VN-A893,A350-941,129,Vietnam Airlines,False,19/04/2023 - 04:10
-B-LRB,A350-941,32,Cathay Pacific,False,19/04/2023 - 04:10
-B-LRJ,A350-941,61,Cathay Pacific,True,19/04/2023 - 04:10
-EC-NGY,A350-941,400,Evelop Airlines,False,19/04/2023 - 04:10
-B-LRR,A350-941,119,Cathay Pacific,False,19/04/2023 - 04:10
-B-LRQ,A350-941,109,Cathay Pacific,False,19/04/2023 - 04:10
-EC-NGT,A350-941,366,Iberia,False,19/04/2023 - 04:10
-OH-LWB,A350-941,19,Finnair,False,19/04/2023 - 04:10
-G-XWBE,A350-1041,386,British Airways,False,19/04/2023 - 04:10
-9V-SHI,A350-941,322,Singapore Airlines,False,19/04/2023 - 04:10
-B-18902,A350-941,57,China Airlines,False,19/04/2023 - 04:10
-ET-ATQ,A350-941,40,Etheopian,True,19/04/2023 - 04:10
-G-VJAM,A350-1041,336,Virgin,False,19/04/2023 - 04:10
-9V-SMG,A350-941,62,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SMH,A350-941,68,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SME,A350-941,41,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SMP,A350-941,122,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SMT,A350-941,170,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SMY,A350-941,344,Singapore Airlines,False,19/04/2023 - 04:10
-9V-SMK,A350-941,84,Singapore Airlines,False,19/04/2023 - 04:10
-F-HTYH,A350-941,488,Air France,False,19/04/2023 - 04:10
-F-HTYI,A350-941,491,Air France,False,19/04/2023 - 04:10
-F-HTYD,A350-941,381,Air France,False,19/04/2023 - 04:10
-F-HTYE,A350-941,407,Air France,False,19/04/2023 - 04:10
-F-HREY,A350-941,325,French Bee,False,19/04/2023 - 04:10
-B-LRU,A350-941,148,Cathay Pacific,False,19/04/2023 - 04:10
-B-LXG,A350-1041,252,Cathay Pacific,False,19/04/2023 - 04:10
-HS-THH,A350-941,142,Thai Airways,False,19/04/2023 - 04:10
-HS-THF,A350-941,123,Thai Airways,False,19/04/2023 - 04:10
+G-VLUX,A350-1041,274,Virgin,False,19/04/2023 - 08:11
+B-18902,A350-941,57,China Airlines,False,19/04/2023 - 08:11
+9V-SMQ,A350-941,133,Singapore Airlines,False,19/04/2023 - 08:11
+B-18903,A350-941,66,China Airlines,False,19/04/2023 - 08:11
+D-AIXF,A350-941,146,Lufthansa,False,19/04/2023 - 08:11
+D-AIXH,A350-941,184,Lufthansa,True,19/04/2023 - 08:11
+D-AIXG,A350-941,174,Lufthansa,False,19/04/2023 - 08:11
+G-XWBE,A350-1041,386,British Airways,False,19/04/2023 - 08:11
+F-WMIL,A350-1041,59,Airbus Industries,True,19/04/2023 - 08:11
+B-LRU,A350-941,148,Cathay Pacific,False,19/04/2023 - 08:11
+B-LXG,A350-1041,252,Cathay Pacific,True,19/04/2023 - 08:11
+B-LRM,A350-941,75,Cathay Pacific,False,19/04/2023 - 08:11
+B-LRQ,A350-941,109,Cathay Pacific,False,19/04/2023 - 08:11
+A7-ALZ,A350-941,12,Qatar,False,19/04/2023 - 08:11
+A7-ANM,A350-1041,350,Qatar,False,19/04/2023 - 08:11
+A7-ANK,A350-1041,332,Qatar,False,19/04/2023 - 08:11
+A7-AND,A350-1041,125,Qatar,False,19/04/2023 - 08:11
+9V-SHU,A350-941,469,Singapore Airlines,False,19/04/2023 - 08:11
+A7-AML,A350-941,257,Qatar,False,19/04/2023 - 08:11
