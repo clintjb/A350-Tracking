@@ -1,31 +1,28 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXF,A350-941,146,Lufthansa,False,27/05/2023 - 00:45
-D-AIXI,A350-941,202,Lufthansa,False,27/05/2023 - 00:45
-D-AIXH,A350-941,184,Lufthansa,False,27/05/2023 - 00:45
-D-AIXJ,A350-941,209,Lufthansa,False,27/05/2023 - 00:45
-D-AIXO,A350-941,314,Lufthansa,True,27/05/2023 - 00:45
-B-LRA,A350-941,29,Cathay Pacific,False,27/05/2023 - 00:45
-N501DN,A350-941,115,Delta,False,27/05/2023 - 00:45
-B-LRC,A350-941,34,Cathay Pacific,True,27/05/2023 - 00:45
-B-LRD,A350-941,38,Cathay Pacific,False,27/05/2023 - 00:45
-B-LRB,A350-941,32,Cathay Pacific,False,27/05/2023 - 00:45
-OH-LWH,A350-941,97,Finnair,False,27/05/2023 - 00:45
-OH-LWF,A350-941,28,Finnair,False,27/05/2023 - 00:45
-OH-LWI,A350-941,104,Finnair,False,27/05/2023 - 00:45
-VN-A890,A350-941,56,Vietnam Airlines,True,27/05/2023 - 00:45
-G-XWBE,A350-1041,386,British Airways,False,27/05/2023 - 00:45
-9V-SHK,A350-941,369,Singapore Airlines,False,27/05/2023 - 00:45
-G-XWBF,A350-1041,402,British Airways,False,27/05/2023 - 00:45
-N504DN,A350-941,160,Delta,True,27/05/2023 - 00:45
-G-VLUX,A350-1041,274,Virgin,False,27/05/2023 - 00:45
-G-VPOP,A350-1041,298,Virgin,False,27/05/2023 - 00:45
-9V-SMS,A350-941,158,Singapore Airlines,False,27/05/2023 - 00:45
-B-18903,A350-941,66,China Airlines,False,27/05/2023 - 00:45
-F-HTYD,A350-941,381,Air France,False,27/05/2023 - 00:45
-F-HTYF,A350-941,422,Air France,False,27/05/2023 - 00:45
-F-HREY,A350-941,325,French Bee,False,27/05/2023 - 00:45
-B-LRX,A350-941,155,Cathay Pacific,False,27/05/2023 - 00:45
-B-LRU,A350-941,148,Cathay Pacific,False,27/05/2023 - 00:45
-A7-ANK,A350-1041,332,Qatar,False,27/05/2023 - 00:45
-A7-ANF,A350-1041,161,Qatar,False,27/05/2023 - 00:45
-A7-ANB,A350-1041,102,Qatar,False,27/05/2023 - 00:45
+D-AIXK,A350-941,212,Lufthansa,False,27/05/2023 - 04:09
+N505DN,A350-941,164,Delta,True,27/05/2023 - 04:09
+VN-A894,A350-941,150,Vietnam Airlines,False,27/05/2023 - 04:09
+B-LRC,A350-941,34,Cathay Pacific,False,27/05/2023 - 04:09
+B-LRK,A350-941,70,Cathay Pacific,False,27/05/2023 - 04:09
+B-LRL,A350-941,72,Cathay Pacific,False,27/05/2023 - 04:09
+EC-NGY,A350-941,400,Evelop Airlines,True,27/05/2023 - 04:09
+OH-LWH,A350-941,97,Finnair,False,27/05/2023 - 04:09
+9V-SHI,A350-941,322,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMD,A350-941,37,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMB,A350-941,30,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMI,A350-941,77,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMQ,A350-941,133,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMR,A350-941,140,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMS,A350-941,158,Singapore Airlines,False,27/05/2023 - 04:09
+9V-SMO,A350-941,116,Singapore Airlines,False,27/05/2023 - 04:09
+G-XWBB,A350-1041,340,British Airways,False,27/05/2023 - 04:09
+F-HTYC,A350-941,359,Air France,False,27/05/2023 - 04:09
+F-HTYF,A350-941,422,Air France,False,27/05/2023 - 04:09
+F-HTYK,A350-941,502,Air France,False,27/05/2023 - 04:09
+F-HREV,A350-941,193,French Bee,False,27/05/2023 - 04:09
+F-HREY,A350-941,325,French Bee,False,27/05/2023 - 04:09
+N506DN,A350-941,175,Delta,False,27/05/2023 - 04:09
+B-LRX,A350-941,155,Cathay Pacific,False,27/05/2023 - 04:09
+B-LXG,A350-1041,252,Cathay Pacific,False,27/05/2023 - 04:09
+B-LQB,A350-941,337,Cathay Pacific,False,27/05/2023 - 04:09
+HS-THE,A350-941,111,Thai Airways,False,27/05/2023 - 04:09
