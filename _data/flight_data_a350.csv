@@ -1,39 +1,6 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXB,A350-941,80,Lufthansa,False,10/06/2023 - 04:09
-D-AIXK,A350-941,212,Lufthansa,False,10/06/2023 - 04:09
-N505DN,A350-941,164,Delta,True,10/06/2023 - 04:09
-TC-LGA,A350-941,403,Turkish Airlines,False,10/06/2023 - 04:09
-N502DN,A350-941,135,Delta,False,10/06/2023 - 04:09
-VN-A894,A350-941,150,Vietnam Airlines,False,10/06/2023 - 04:09
-B-LRJ,A350-941,61,Cathay Pacific,False,10/06/2023 - 04:09
-OH-LWC,A350-941,20,Finnair,False,10/06/2023 - 04:09
-OH-LWL,A350-941,134,Finnair,True,10/06/2023 - 04:09
-9V-SHQ,A350-941,439,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SHU,A350-941,469,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SHK,A350-941,369,Singapore Airlines,False,10/06/2023 - 04:09
-B-18902,A350-941,57,China Airlines,False,10/06/2023 - 04:09
-B-18905,A350-941,73,China Airlines,False,10/06/2023 - 04:09
-9V-SMD,A350-941,37,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMB,A350-941,30,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMG,A350-941,62,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMF,A350-941,54,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMT,A350-941,170,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMM,A350-941,99,Singapore Airlines,False,10/06/2023 - 04:09
-9V-SMK,A350-941,84,Singapore Airlines,False,10/06/2023 - 04:09
-G-XWBB,A350-1041,340,British Airways,False,10/06/2023 - 04:09
-B-18907,A350-941,105,China Airlines,False,10/06/2023 - 04:09
-F-HTYE,A350-941,407,Air France,False,10/06/2023 - 04:09
-F-HTYF,A350-941,422,Air France,False,10/06/2023 - 04:09
-F-HREV,A350-941,193,French Bee,False,10/06/2023 - 04:09
-B-LRT,A350-941,137,Cathay Pacific,True,10/06/2023 - 04:09
-B-LRX,A350-941,155,Cathay Pacific,False,10/06/2023 - 04:09
-B-LXK,A350-1041,296,Cathay Pacific,False,10/06/2023 - 04:09
-B-LXL,A350-1041,306,Cathay Pacific,False,10/06/2023 - 04:09
-A7-ANP,A350-1041,372,Qatar,False,10/06/2023 - 04:09
-A7-ALS,A350-941,83,Qatar,False,10/06/2023 - 04:09
-A7-ALQ,A350-941,76,Qatar,False,10/06/2023 - 04:09
-A7-ALO,A350-941,63,Qatar,False,10/06/2023 - 04:09
-A7-ALM,A350-941,42,Qatar,False,10/06/2023 - 04:09
-HS-THH,A350-941,142,Thai Airways,False,10/06/2023 - 04:09
-HS-THF,A350-941,123,Thai Airways,False,10/06/2023 - 04:09
-A7-AML,A350-941,257,Qatar,False,10/06/2023 - 04:09
+B-18906,A350-941,92,China Airlines,False,10/06/2023 - 08:09
+F-HTYE,A350-941,407,Air France,False,10/06/2023 - 08:09
+A7-ANM,A350-1041,350,Qatar,False,10/06/2023 - 08:09
+A7-ANN,A350-1041,356,Qatar,False,10/06/2023 - 08:09
+A7-ALS,A350-941,83,Qatar,False,10/06/2023 - 08:09
