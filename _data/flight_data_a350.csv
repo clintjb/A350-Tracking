@@ -1,11 +1,15 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXE,A350-941,136,Lufthansa,False,04/08/2023 - 16:10
-D-AIXN,A350-941,292,Lufthansa,False,04/08/2023 - 16:10
-N503DN,A350-941,149,Delta,False,04/08/2023 - 16:10
-B-LRI,A350-941,58,Cathay Pacific,False,04/08/2023 - 16:10
-OH-LWK,A350-941,113,Finnair,False,04/08/2023 - 16:10
-9V-SMG,A350-941,62,Singapore Airlines,False,04/08/2023 - 16:10
-9V-SMN,A350-941,107,Singapore Airlines,False,04/08/2023 - 16:10
-F-HREY,A350-941,325,French Bee,True,04/08/2023 - 16:10
-A7-ALT,A350-941,90,Qatar,False,04/08/2023 - 16:10
-A7-AMG,A350-941,207,Qatar,False,04/08/2023 - 16:10
+D-AIXL,A350-941,255,Lufthansa,False,04/08/2023 - 20:08
+N501DN,A350-941,115,Delta,False,04/08/2023 - 20:08
+B-LRC,A350-941,34,Cathay Pacific,False,04/08/2023 - 20:08
+B-LRI,A350-941,58,Cathay Pacific,False,04/08/2023 - 20:08
+EC-NGT,A350-941,366,Iberia,False,04/08/2023 - 20:08
+9V-SHU,A350-941,469,Singapore Airlines,False,04/08/2023 - 20:08
+9V-SME,A350-941,41,Singapore Airlines,False,04/08/2023 - 20:08
+9V-SMS,A350-941,158,Singapore Airlines,False,04/08/2023 - 20:08
+B-18908,A350-941,121,China Airlines,False,04/08/2023 - 20:08
+A7-ANA,A350-1041,88,Qatar,False,04/08/2023 - 20:08
+A7-ALT,A350-941,90,Qatar,False,04/08/2023 - 20:08
+A7-ALR,A350-941,78,Qatar,False,04/08/2023 - 20:08
+HS-THH,A350-941,142,Thai Airways,False,04/08/2023 - 20:08
+HS-THB,A350-941,44,Thai Airways,False,04/08/2023 - 20:08
