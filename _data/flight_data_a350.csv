@@ -1,62 +1,68 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXE,A350-941,136,Lufthansa,False,15/10/2023 - 16:09
-D-AIXD,A350-941,127,Lufthansa,False,15/10/2023 - 16:09
-D-AIXH,A350-941,184,Lufthansa,False,15/10/2023 - 16:09
-D-AIXJ,A350-941,209,Lufthansa,False,15/10/2023 - 16:09
-D-AIXM,A350-941,287,Lufthansa,False,15/10/2023 - 16:09
-N505DN,A350-941,164,Delta Air Lines,False,15/10/2023 - 16:09
-SE-RSF,A350-941,nan,SAS Airlines,False,15/10/2023 - 16:09
-N516DN,A350-941,530,Delta Air Lines,True,15/10/2023 - 16:09
-B-321J,A350-941,nan,China Eastern Airlines,False,15/10/2023 - 16:09
-TC-LGG,A350-941,nan,Turkish Airlines,False,15/10/2023 - 16:09
-TC-LGC,A350-941,nan,Turkish Airlines,False,15/10/2023 - 16:09
-TC-LGI,A350-941,nan,Turkish Airlines,False,15/10/2023 - 16:09
-N502DN,A350-941,135,Delta Air Lines,False,15/10/2023 - 16:09
-B-LRC,A350-941,34,Cathay Pacific,False,15/10/2023 - 16:09
-EC-NJM,A350-941,nan,Iberia Airlines,False,15/10/2023 - 16:09
-OH-LWD,A350-941,22,Finnair,False,15/10/2023 - 16:09
-OH-LWB,A350-941,19,Finnair,False,15/10/2023 - 16:09
-OH-LWM,A350-941,nan,Finnair,False,15/10/2023 - 16:09
-OH-LWN,A350-941,nan,Finnair,False,15/10/2023 - 16:09
-OH-LWI,A350-941,104,Finnair,False,15/10/2023 - 16:09
-VN-A891,A350-941,67,Vietnam Airlines,False,15/10/2023 - 16:09
-9V-SHE,A350-941,nan,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SHI,A350-941,322,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SHQ,A350-941,nan,Singapore Airlines,False,15/10/2023 - 16:09
-G-VLUX,A350-1041,nan,Virgin Atlantic Airways,False,15/10/2023 - 16:09
-G-VPOP,A350-1041,298,Virgin Atlantic,False,15/10/2023 - 16:09
-9V-SGF,A350-941,nan,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SGG,A350-941,nan,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SMD,A350-941,37,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SMJ,A350-941,81,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SMK,A350-941,84,Singapore Airlines,False,15/10/2023 - 16:09
-9V-SMO,A350-941,116,Singapore Airlines,False,15/10/2023 - 16:09
-VP-BXD,A350-941,nan,Aeroflot Russian Airlines,False,15/10/2023 - 16:09
-B-18909,A350-941,138,China Airlines,False,15/10/2023 - 16:09
-B-18906,A350-941,92,China Airlines,False,15/10/2023 - 16:09
-EC-MYX,A350-941,nan,Iberia Airlines,False,15/10/2023 - 16:09
-F-HTYI,A350-941,491,Air France,False,15/10/2023 - 16:09
-F-HTYA,A350-941,nan,Air France,False,15/10/2023 - 16:09
-F-HTYB,A350-941,349,Air France,False,15/10/2023 - 16:09
-F-HTYC,A350-941,359,Air France,False,15/10/2023 - 16:09
-F-HTYF,A350-941,nan,Air France,False,15/10/2023 - 16:09
-F-HTYG,A350-941,479,Air France,False,15/10/2023 - 16:09
-F-HTYM,A350-941,nan,Air France,False,15/10/2023 - 16:09
-F-HTYN,A350-941,nan,Air France,False,15/10/2023 - 16:09
-F-HTYQ,A350-941,nan,Air France,False,15/10/2023 - 16:09
-B-LXD,A350-1041,nan,Cathay Pacific,False,15/10/2023 - 16:09
-B-LQC,A350-941,nan,Cathay Pacific,True,15/10/2023 - 16:09
-G-XWBI,A350-1041,nan,British Airways,False,15/10/2023 - 16:09
-HL7771,A350-941,nan,Asiana Airlines,False,15/10/2023 - 16:09
-A7-AOA,A350-1041,409,Qatar Airways,False,15/10/2023 - 16:09
-A7-ANC,A350-1041,nan,Qatar Airways,False,15/10/2023 - 16:09
-N513DZ,A350-941,277,Delta Air Lines,False,15/10/2023 - 16:09
-A7-ALR,A350-941,78,Qatar Airways,False,15/10/2023 - 16:09
-A7-ALO,A350-941,63,Qatar Airways,False,15/10/2023 - 16:09
-A7-ALM,A350-941,42,Qatar Airways,False,15/10/2023 - 16:09
-HS-THE,A350-941,111,Thai Airways,False,15/10/2023 - 16:09
-HS-THD,A350-941,95,Thai Airways,False,15/10/2023 - 16:09
-A7-AMJ,A350-941,237,Qatar Airways,False,15/10/2023 - 16:09
-A7-AMF,A350-941,nan,Qatar Airways,False,15/10/2023 - 16:09
-A7-ALB,A350-941,7,Qatar Airways,False,15/10/2023 - 16:09
-A7-ALH,A350-941,12,Qatar Airways,False,15/10/2023 - 16:09
+D-AIXB,A350-941,80,Lufthansa,False,15/10/2023 - 20:10
+D-AIXC,A350-941,87,Lufthansa,False,15/10/2023 - 20:10
+D-AIXP,A350-941,390,Lufthansa,False,15/10/2023 - 20:10
+SE-RSA,A350-941,358,SAS Airlines,False,15/10/2023 - 20:10
+N516DN,A350-941,530,Delta Air Lines,False,15/10/2023 - 20:10
+G-VEVE,A350-1041,nan,Virgin Atlantic Airways,False,15/10/2023 - 20:10
+TC-LGE,A350-941,nan,Turkish Airlines,False,15/10/2023 - 20:10
+TC-LGC,A350-941,nan,Turkish Airlines,False,15/10/2023 - 20:10
+TC-LGA,A350-941,nan,Turkish Airlines,False,15/10/2023 - 20:10
+EC-NOI,A350-941,448,World2fly,False,15/10/2023 - 20:10
+VN-A898,A350-941,nan,Vietnam Airlines,False,15/10/2023 - 20:10
+B-LRC,A350-941,34,Cathay Pacific,False,15/10/2023 - 20:10
+N512DN,A350-941,267,Delta Air Lines,False,15/10/2023 - 20:10
+B-LRD,A350-941,38,Cathay Pacific,False,15/10/2023 - 20:10
+B-LRM,A350-941,75,Cathay Pacific,False,15/10/2023 - 20:10
+B-LRN,A350-941,85,Cathay Pacific,False,15/10/2023 - 20:10
+B-LRJ,A350-941,61,Cathay Pacific,False,15/10/2023 - 20:10
+OH-LWF,A350-941,28,Finnair,False,15/10/2023 - 20:10
+VN-A891,A350-941,67,Vietnam Airlines,False,15/10/2023 - 20:10
+G-XWBE,A350-1041,nan,British Airways,False,15/10/2023 - 20:10
+9V-SHB,A350-941,nan,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SHE,A350-941,nan,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SHY,A350-941,nan,Singapore Airlines,False,15/10/2023 - 20:10
+G-VLUX,A350-1041,nan,Virgin Atlantic Airways,False,15/10/2023 - 20:10
+B-18902,A350-941,57,China Airlines,False,15/10/2023 - 20:10
+9V-SGE,A350-941,nan,Saudia,False,15/10/2023 - 20:10
+9V-SGB,A350-941,nan,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SMC,A350-941,31,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SMD,A350-941,37,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SMG,A350-941,62,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SMV,A350-941,nan,Singapore Airlines,False,15/10/2023 - 20:10
+9V-SML,A350-941,96,Singapore Airlines,False,15/10/2023 - 20:10
+B-305X,A350-941,nan,China Eastern Airlines,False,15/10/2023 - 20:10
+HL8078,A350-941,94,Asiana Airlines,False,15/10/2023 - 20:10
+HL8079,A350-941,117,Asiana Airlines,False,15/10/2023 - 20:10
+VP-BXA,A350-941,nan,Aeroflot Russian Airlines,False,15/10/2023 - 20:10
+B-18907,A350-941,105,China Airlines,False,15/10/2023 - 20:10
+B-18918,A350-941,nan,China Airlines,False,15/10/2023 - 20:10
+B-30A9,A350-941,nan,China Southern Airlines,False,15/10/2023 - 20:10
+N517DZ,A350-941,545,Delta Air Lines,False,15/10/2023 - 20:10
+HL8362,A350-941,nan,Asiana Airlines,False,15/10/2023 - 20:10
+EI-IFD,A350-941,nan,Italian Airways,False,15/10/2023 - 20:10
+F-HTYJ,A350-941,500,Air France,False,15/10/2023 - 20:10
+F-HTYE,A350-941,407,Air France,False,15/10/2023 - 20:10
+N509DN,A350-941,199,Delta Air Lines,False,15/10/2023 - 20:10
+B-LXK,A350-1041,nan,Cathay Pacific,False,15/10/2023 - 20:10
+B-LQD,A350-941,nan,Cathay Pacific,False,15/10/2023 - 20:10
+N515DN,A350-941,404,Delta Air Lines,False,15/10/2023 - 20:10
+A7-AOA,A350-1041,409,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANM,A350-1041,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANK,A350-1041,332,Qatar Airways,True,15/10/2023 - 20:10
+A7-AND,A350-1041,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANS,A350-1041,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANO,A350-1041,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANP,A350-1041,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-ANN,A350-1041,356,Qatar Airways,False,15/10/2023 - 20:10
+A7-ALS,A350-941,83,Qatar Airways,True,15/10/2023 - 20:10
+A7-ALO,A350-941,63,Qatar Airways,False,15/10/2023 - 20:10
+A7-ALM,A350-941,42,Qatar Airways,False,15/10/2023 - 20:10
+HS-THH,A350-941,142,Thai Airways,False,15/10/2023 - 20:10
+HS-THF,A350-941,123,Thai Airways,False,15/10/2023 - 20:10
+HS-THC,A350-941,50,Thai Airways,False,15/10/2023 - 20:10
+A7-AMI,A350-941,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-AMJ,A350-941,237,Qatar Airways,False,15/10/2023 - 20:10
+A7-AMG,A350-941,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-AMF,A350-941,nan,Qatar Airways,False,15/10/2023 - 20:10
+A7-AML,A350-941,257,Qatar Airways,False,15/10/2023 - 20:10
