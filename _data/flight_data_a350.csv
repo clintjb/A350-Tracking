@@ -1,97 +1,63 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXA,A350-941,74,Lufthansa,False,09/08/2024 - 12:18
-D-AIXE,A350-941,136,Lufthansa,False,09/08/2024 - 12:18
-D-AIXC,A350-941,87,Lufthansa,False,09/08/2024 - 12:18
-D-AIXH,A350-941,184,Lufthansa,False,09/08/2024 - 12:18
-D-AIXP,A350-941,390,Lufthansa,False,09/08/2024 - 12:18
-D-AIXJ,A350-941,209,Lufthansa,False,09/08/2024 - 12:18
-D-AIXO,A350-941,314,Lufthansa,False,09/08/2024 - 12:18
-B-322Z,A350-941,nan,Air China,False,09/08/2024 - 12:18
-JA07XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-JA09XJ,A350-941,497,Japan Airlines,False,09/08/2024 - 12:18
-B-321N,A350-941,458,Air China,False,09/08/2024 - 12:18
-B-324X,A350-941,nan,China Eastern Airlines,False,09/08/2024 - 12:18
-JA04XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-N503DN,A350-941,149,Delta Air Lines,False,09/08/2024 - 12:18
-TC-LGH,A350-941,nan,Turkish Airlines,False,09/08/2024 - 12:18
-TC-LGF,A350-941,nan,Turkish Airlines,False,09/08/2024 - 12:18
-TC-LGC,A350-941,nan,Turkish Airlines,False,09/08/2024 - 12:18
-TC-LGI,A350-941,nan,Turkish Airlines,False,09/08/2024 - 12:18
-B-327V,A350-941,nan,Air China,False,09/08/2024 - 12:18
-JA11XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-JA08XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-VN-A893,A350-941,129,Vietnam Airlines,False,09/08/2024 - 12:18
-VN-A898,A350-941,nan,Vietnam Airlines,False,09/08/2024 - 12:18
-G-VRNB,A350-1041,nan,Virgin Atlantic Airways,False,09/08/2024 - 12:18
-B-LRE,A350-941,39,Cathay Pacific,False,09/08/2024 - 12:18
-B-LRL,A350-941,72,Cathay Pacific,False,09/08/2024 - 12:18
-B-LRF,A350-941,46,Cathay Pacific,False,09/08/2024 - 12:18
-B-LRS,A350-941,128,Cathay Pacific,False,09/08/2024 - 12:18
-EC-NJM,A350-941,nan,Iberia Airlines,False,09/08/2024 - 12:18
-OH-LWB,A350-941,19,Finnair,False,09/08/2024 - 12:18
-OH-LWP,A350-941,nan,Finnair,False,09/08/2024 - 12:18
-OH-LWL,A350-941,134,Finnair,False,09/08/2024 - 12:18
-OH-LWI,A350-941,104,Finnair,False,09/08/2024 - 12:18
-JA15XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-B-1082,A350-941,nan,Air China,False,09/08/2024 - 12:18
-B-1083,A350-941,nan,Air China,False,09/08/2024 - 12:18
-B-1081,A350-941,nan,Air China,False,09/08/2024 - 12:18
-F-HHAV,A350-941,82,Air Caraïbes,False,09/08/2024 - 12:18
-9V-SHB,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SHD,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SHV,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SHW,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SHO,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-JA10XJ,A350-941,nan,Japan Airlines,False,09/08/2024 - 12:18
-G-XWBF,A350-1041,402,British Airways,False,09/08/2024 - 12:18
-9V-SJA,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-JA05XJ,A350-941,370,Japan Airlines,False,09/08/2024 - 12:18
-G-VJAM,A350-1041,nan,Virgin Atlantic Airways,False,09/08/2024 - 12:18
-9V-SMB,A350-941,30,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMH,A350-941,68,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMP,A350-941,122,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMQ,A350-941,133,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMT,A350-941,170,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMR,A350-941,140,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMS,A350-941,158,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMW,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SML,A350-941,96,Singapore Airlines,False,09/08/2024 - 12:18
-9V-SMZ,A350-941,nan,Singapore Airlines,False,09/08/2024 - 12:18
-9M-MAB,A350-941,nan,Malaysia Airlines,False,09/08/2024 - 12:18
-B-307C,A350-941,nan,Air China,False,09/08/2024 - 12:18
-HL8079,A350-941,117,Asiana Airlines,False,09/08/2024 - 12:18
-B-18908,A350-941,121,China Airlines,True,09/08/2024 - 12:18
-EC-NCX,A350-941,nan,Iberia Airlines,False,09/08/2024 - 12:18
-B-308M,A350-941,nan,Air China,False,09/08/2024 - 12:18
-B-18918,A350-941,nan,China Airlines,False,09/08/2024 - 12:18
-B-30CW,A350-941,373,China Eastern Airlines,False,09/08/2024 - 12:18
-EC-MYX,A350-941,nan,Iberia Airlines,False,09/08/2024 - 12:18
-HL8308,A350-941,nan,Asiana Airlines,False,09/08/2024 - 12:18
-HL8381,A350-941,nan,Asiana Airlines,False,09/08/2024 - 12:18
-F-HTYI,A350-941,491,Air France,False,09/08/2024 - 12:18
-F-HTYC,A350-941,359,Air France,False,09/08/2024 - 12:18
-F-HTYQ,A350-941,nan,Air France,False,09/08/2024 - 12:18
-F-HREN,A350-941,nan,French Bee,False,09/08/2024 - 12:18
-N509DN,A350-941,199,Delta Air Lines,True,09/08/2024 - 12:18
-B-LRU,A350-941,148,Cathay Pacific,False,09/08/2024 - 12:18
-B-LXG,A350-1041,nan,Cathay Pacific,True,09/08/2024 - 12:18
-B-LQB,A350-941,337,Cathay Pacific,False,09/08/2024 - 12:18
-B-LXL,A350-1041,306,Cathay Pacific,False,09/08/2024 - 12:18
-B-LXJ,A350-1041,nan,Cathay Pacific,False,09/08/2024 - 12:18
-G-XWBI,A350-1041,nan,British Airways,False,09/08/2024 - 12:18
-G-XWBK,A350-1041,nan,British Airways,False,09/08/2024 - 12:18
-A7-AOA,A350-1041,409,Qatar Airways,True,09/08/2024 - 12:18
-A7-ANL,A350-1041,nan,Qatar Airways,False,09/08/2024 - 12:18
-A7-AND,A350-1041,nan,Qatar Airways,False,09/08/2024 - 12:18
-A7-ANB,A350-1041,102,Qatar Airways,False,09/08/2024 - 12:18
-A7-ANR,A350-1041,nan,Qatar Airways,False,09/08/2024 - 12:18
-A7-ANO,A350-1041,nan,Qatar Airways,False,09/08/2024 - 12:18
-A7-ANN,A350-1041,356,Qatar Airways,False,09/08/2024 - 12:18
-A7-ALS,A350-941,83,Qatar Airways,False,09/08/2024 - 12:18
-A7-ALQ,A350-941,76,Qatar Airways,False,09/08/2024 - 12:18
-A7-ALM,A350-941,42,Qatar Airways,False,09/08/2024 - 12:18
-HS-THC,A350-941,50,Thai Airways,False,09/08/2024 - 12:18
-A7-AMG,A350-941,nan,Qatar Airways,False,09/08/2024 - 12:18
-A7-AME,A350-941,nan,Qatar Airways,True,09/08/2024 - 12:18
-A7-ALE,A350-941,8,Qatar Airways,True,09/08/2024 - 12:18
-A7-AML,A350-941,257,Qatar Airways,False,09/08/2024 - 12:18
+D-AIXI,A350-941,nan,Lufthansa,False,09/08/2024 - 16:12
+D-AIXG,A350-941,174,Lufthansa,False,09/08/2024 - 16:12
+D-AIXR,A350-941,nan,Lufthansa,False,09/08/2024 - 16:12
+D-AIXQ,A350-941,427,Lufthansa,False,09/08/2024 - 16:12
+SE-RSF,A350-941,nan,SAS Airlines,False,09/08/2024 - 16:12
+RP-C3501,A350-941,nan,Philippine Airlines,False,09/08/2024 - 16:12
+N516DN,A350-941,530,Delta Air Lines,True,09/08/2024 - 16:12
+RA-73153,A350-941,nan,Aeroflot Russian Airlines,False,09/08/2024 - 16:12
+RA-73156,A350-941,nan,Aeroflot Russian Airlines,False,09/08/2024 - 16:12
+B-324X,A350-941,nan,China Eastern Airlines,False,09/08/2024 - 16:12
+G-VEVE,A350-1041,nan,Virgin Atlantic Airways,False,09/08/2024 - 16:12
+TC-LGE,A350-941,nan,Turkish Airlines,False,09/08/2024 - 16:12
+TC-LGA,A350-941,nan,Turkish Airlines,False,09/08/2024 - 16:12
+VN-A898,A350-941,nan,Vietnam Airlines,False,09/08/2024 - 16:12
+B-LRE,A350-941,39,Cathay Pacific,False,09/08/2024 - 16:12
+B-LRN,A350-941,85,Cathay Pacific,False,09/08/2024 - 16:12
+EC-NIG,A350-941,397,Iberia Airlines,False,09/08/2024 - 16:12
+EC-NIS,A350-941,406,Iberia Airlines,False,09/08/2024 - 16:12
+OH-LWP,A350-941,nan,Finnair,False,09/08/2024 - 16:12
+OH-LWL,A350-941,134,Finnair,False,09/08/2024 - 16:12
+OH-LWI,A350-941,104,Finnair,False,09/08/2024 - 16:12
+B-1082,A350-941,nan,Air China,False,09/08/2024 - 16:12
+B-1081,A350-941,nan,Air China,False,09/08/2024 - 16:12
+ET-AVE,A350-941,nan,Ethiopian Airlines,False,09/08/2024 - 16:12
+B-18902,A350-941,57,China Airlines,False,09/08/2024 - 16:12
+9V-SGC,A350-941,nan,Singapore Airlines,False,09/08/2024 - 16:12
+9V-SME,A350-941,41,Singapore Airlines,False,09/08/2024 - 16:12
+9V-SMS,A350-941,158,Singapore Airlines,False,09/08/2024 - 16:12
+B-18917,A350-941,208,China Airlines,False,09/08/2024 - 16:12
+B-30CW,A350-941,373,China Eastern Airlines,False,09/08/2024 - 16:12
+N519DN,A350-941,588,Delta Air Lines,False,09/08/2024 - 16:12
+EC-NBO,A350-941,293,Evelop Airlines,False,09/08/2024 - 16:12
+B-30C0,A350-941,nan,China Southern Airlines,False,09/08/2024 - 16:12
+N517DZ,A350-941,545,Delta Air Lines,True,09/08/2024 - 16:12
+B-30FM,A350-941,nan,China Eastern Airlines,False,09/08/2024 - 16:12
+HL8381,A350-941,nan,Asiana Airlines,False,09/08/2024 - 16:12
+F-HTYE,A350-941,407,Air France,False,09/08/2024 - 16:12
+F-HTYF,A350-941,nan,Air France,False,09/08/2024 - 16:12
+F-HTYM,A350-941,nan,Air France,False,09/08/2024 - 16:12
+F-HTYP,A350-941,nan,Air France,False,09/08/2024 - 16:12
+N509DN,A350-941,199,Delta Air Lines,False,09/08/2024 - 16:12
+F-HMIX,A350-1041,nan,French Bee,False,09/08/2024 - 16:12
+B-LRX,A350-941,155,Cathay Pacific,False,09/08/2024 - 16:12
+B-LXP,A350-1041,503,Cathay Pacific,False,09/08/2024 - 16:12
+G-XWBJ,A350-1041,nan,British Airways,False,09/08/2024 - 16:12
+A7-AOA,A350-1041,409,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALQ,A350-941,76,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALN,A350-941,47,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALO,A350-941,63,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALM,A350-941,42,Qatar Airways,False,09/08/2024 - 16:12
+HS-THB,A350-941,44,Thai Airways,False,09/08/2024 - 16:12
+A7-AMI,A350-941,nan,Qatar Airways,False,09/08/2024 - 16:12
+A7-AMG,A350-941,nan,Qatar Airways,False,09/08/2024 - 16:12
+A7-AMH,A350-941,nan,Qatar Airways,False,09/08/2024 - 16:12
+A7-AME,A350-941,nan,Qatar Airways,True,09/08/2024 - 16:12
+A7-ALE,A350-941,8,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALD,A350-941,10,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALB,A350-941,7,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALK,A350-941,33,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALI,A350-941,21,Qatar Airways,False,09/08/2024 - 16:12
+A7-ALG,A350-941,13,Qatar Airways,False,09/08/2024 - 16:12
+F-HTRE,A350-941,nan,Air Caraïbes,False,09/08/2024 - 16:12
