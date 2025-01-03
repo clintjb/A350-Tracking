@@ -1,79 +1,84 @@
 A/C,Type,MSN,Operator,Grounded,Export
-D-AIXC,A350-941,87,Lufthansa,False,03/01/2025 - 00:53
-D-AIXK,A350-941,212,Lufthansa,False,03/01/2025 - 00:53
-D-AIXJ,A350-941,209,Lufthansa,False,03/01/2025 - 00:53
-D-AIXM,A350-941,287,Lufthansa,False,03/01/2025 - 00:53
-SE-RSD,A350-941,nan,SAS Airlines,False,03/01/2025 - 00:53
-RP-C3501,A350-941,nan,Philippine Airlines,False,03/01/2025 - 00:53
-JA07XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 00:53
-JA09XJ,A350-941,497,Japan Airlines,True,03/01/2025 - 00:53
-B-321J,A350-941,nan,China Eastern Airlines,False,03/01/2025 - 00:53
-B-321N,A350-941,458,Air China,False,03/01/2025 - 00:53
-JA02XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 00:53
-G-VEVE,A350-1041,nan,Virgin Atlantic Airways,False,03/01/2025 - 00:53
-N508DN,A350-941,190,Delta Air Lines,True,03/01/2025 - 00:53
-TC-LGG,A350-941,nan,Turkish Airlines,False,03/01/2025 - 00:53
-TC-LGH,A350-941,nan,Turkish Airlines,False,03/01/2025 - 00:53
-TC-LGE,A350-941,nan,Turkish Airlines,False,03/01/2025 - 00:53
-TC-LGA,A350-941,nan,Turkish Airlines,False,03/01/2025 - 00:53
-TC-LGI,A350-941,nan,Turkish Airlines,False,03/01/2025 - 00:53
-VN-A892,A350-941,86,Vietnam Airlines,False,03/01/2025 - 00:53
-VN-A893,A350-941,129,Vietnam Airlines,True,03/01/2025 - 00:53
-N512DN,A350-941,267,Delta Air Lines,False,03/01/2025 - 00:53
-B-LRJ,A350-941,61,Cathay Pacific,False,03/01/2025 - 00:53
-B-LRR,A350-941,119,Cathay Pacific,True,03/01/2025 - 00:53
-OH-LWC,A350-941,20,Finnair,False,03/01/2025 - 00:53
-OH-LWF,A350-941,28,Finnair,False,03/01/2025 - 00:53
-OH-LWP,A350-941,nan,Finnair,False,03/01/2025 - 00:53
-OH-LWN,A350-941,nan,Finnair,False,03/01/2025 - 00:53
-VN-A890,A350-941,56,Vietnam Airlines,False,03/01/2025 - 00:53
-B-1080,A350-941,nan,Air China,False,03/01/2025 - 00:53
-G-XWBE,A350-1041,nan,British Airways,False,03/01/2025 - 00:53
-9V-SHI,A350-941,322,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SHH,A350-941,nan,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SHT,A350-941,nan,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SHS,A350-941,nan,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SHU,A350-941,nan,Singapore Airlines,False,03/01/2025 - 00:53
-JA10XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 00:53
-9V-SJB,A350-941,nan,Singapore Airlines,False,03/01/2025 - 00:53
-F-HNET,A350-941,91,Air Caraïbes,False,03/01/2025 - 00:53
-9V-SGE,A350-941,nan,Saudia,False,03/01/2025 - 00:53
-G-VJAM,A350-1041,nan,Virgin Atlantic Airways,False,03/01/2025 - 00:53
-9V-SMC,A350-941,31,Singapore Airlines,True,03/01/2025 - 00:53
-9V-SME,A350-941,41,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SMR,A350-941,140,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SMM,A350-941,99,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SMK,A350-941,84,Singapore Airlines,False,03/01/2025 - 00:53
-9V-SMN,A350-941,107,Singapore Airlines,False,03/01/2025 - 00:53
-B-306N,A350-941,nan,Sichuan Airlines,False,03/01/2025 - 00:53
-G-XWBB,A350-1041,340,British Airways,False,03/01/2025 - 00:53
-B-18908,A350-941,121,China Airlines,False,03/01/2025 - 00:53
-B-18909,A350-941,138,China Airlines,False,03/01/2025 - 00:53
-B-308M,A350-941,nan,Air China,False,03/01/2025 - 00:53
-B-18918,A350-941,nan,China Airlines,True,03/01/2025 - 00:53
-B-30AL,A350-941,nan,China Southern Airlines,False,03/01/2025 - 00:53
-JA06XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 00:53
-HL8360,A350-941,nan,Asiana Airlines,False,03/01/2025 - 00:53
-F-HTYH,A350-941,488,Air France,False,03/01/2025 - 00:53
-F-HTYC,A350-941,359,Air France,False,03/01/2025 - 00:53
-F-HTYG,A350-941,479,Air France,False,03/01/2025 - 00:53
-F-HTYM,A350-941,nan,Air France,False,03/01/2025 - 00:53
-F-HTYQ,A350-941,nan,Air France,False,03/01/2025 - 00:53
-F-HREU,A350-941,5,French Bee,False,03/01/2025 - 00:53
-F-HREV,A350-941,nan,French Bee,True,03/01/2025 - 00:53
-DQ-FAI,A350-941,nan,Fiji Airways,False,03/01/2025 - 00:53
-B-LXB,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 00:53
-B-LXF,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 00:53
-B-LXK,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 00:53
-B-LXN,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 00:53
-G-XWBK,A350-1041,nan,British Airways,False,03/01/2025 - 00:53
-G-XWBJ,A350-1041,nan,British Airways,False,03/01/2025 - 00:53
-N515DN,A350-941,404,Delta Air Lines,False,03/01/2025 - 00:53
-A7-ANG,A350-1041,nan,Qatar Airways,False,03/01/2025 - 00:53
-A7-ANB,A350-1041,102,Qatar Airways,False,03/01/2025 - 00:53
-A7-ANA,A350-1041,88,Qatar Airways,False,03/01/2025 - 00:53
-A7-ANS,A350-1041,nan,Qatar Airways,False,03/01/2025 - 00:53
-A7-ALU,A350-941,100,Qatar Airways,False,03/01/2025 - 00:53
-HS-THF,A350-941,123,Thai Airways,False,03/01/2025 - 00:53
-A7-ALD,A350-941,10,Qatar Airways,False,03/01/2025 - 00:53
-A7-ALB,A350-941,7,Qatar Airways,False,03/01/2025 - 00:53
+D-AIXA,A350-941,74,Lufthansa,False,03/01/2025 - 04:13
+D-AIXE,A350-941,136,Lufthansa,False,03/01/2025 - 04:13
+D-AIXC,A350-941,87,Lufthansa,False,03/01/2025 - 04:13
+D-AIXK,A350-941,212,Lufthansa,True,03/01/2025 - 04:13
+B-320S,A350-941,nan,China Southern Airlines,False,03/01/2025 - 04:13
+B-322Z,A350-941,nan,Air China,False,03/01/2025 - 04:13
+JA07XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 04:13
+JA09XJ,A350-941,497,Japan Airlines,False,03/01/2025 - 04:13
+B-321J,A350-941,nan,China Eastern Airlines,False,03/01/2025 - 04:13
+B-321N,A350-941,458,Air China,False,03/01/2025 - 04:13
+B-324W,A350-941,nan,China Eastern Airlines,False,03/01/2025 - 04:13
+JA02XJ,A350-941,nan,Japan Airlines,False,03/01/2025 - 04:13
+EC-NMZ,A350-941,nan,Iberia Airlines,False,03/01/2025 - 04:13
+G-VRNB,A350-1041,nan,Virgin Atlantic Airways,False,03/01/2025 - 04:13
+B-LRC,A350-941,34,Cathay Pacific,False,03/01/2025 - 04:13
+B-LRG,A350-941,53,Cathay Pacific,False,03/01/2025 - 04:13
+B-LRR,A350-941,119,Cathay Pacific,True,03/01/2025 - 04:13
+EC-NGT,A350-941,366,Iberia Airlines,False,03/01/2025 - 04:13
+A6-XWA,A350-1041,nan,Etihad Airways,False,03/01/2025 - 04:13
+F-HSIS,A350-1041,nan,Air Caraïbes,False,03/01/2025 - 04:13
+OH-LWG,A350-941,51,Finnair,False,03/01/2025 - 04:13
+OH-LWC,A350-941,20,Finnair,False,03/01/2025 - 04:13
+OH-LWB,A350-941,19,Finnair,False,03/01/2025 - 04:13
+OH-LWP,A350-941,nan,Finnair,False,03/01/2025 - 04:13
+OH-LWR,A350-941,nan,Finnair,False,03/01/2025 - 04:13
+OH-LWL,A350-941,134,Finnair,False,03/01/2025 - 04:13
+OH-LWN,A350-941,nan,Finnair,False,03/01/2025 - 04:13
+VN-A890,A350-941,56,Vietnam Airlines,False,03/01/2025 - 04:13
+VN-A891,A350-941,67,Vietnam Airlines,False,03/01/2025 - 04:13
+B-1082,A350-941,nan,Air China,False,03/01/2025 - 04:13
+B-1080,A350-941,nan,Air China,False,03/01/2025 - 04:13
+G-XWBE,A350-1041,nan,British Airways,True,03/01/2025 - 04:13
+9V-SHE,A350-941,nan,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SHS,A350-941,nan,Singapore Airlines,True,03/01/2025 - 04:13
+9V-SHW,A350-941,nan,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SHY,A350-941,nan,Singapore Airlines,False,03/01/2025 - 04:13
+G-XWBF,A350-1041,402,British Airways,False,03/01/2025 - 04:13
+9V-SJB,A350-941,nan,Singapore Airlines,True,03/01/2025 - 04:13
+G-XWBG,A350-1041,432,British Airways,False,03/01/2025 - 04:13
+ET-AVE,A350-941,nan,Ethiopian Airlines,False,03/01/2025 - 04:13
+9V-SGD,A350-941,nan,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SGB,A350-941,nan,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SMD,A350-941,37,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SME,A350-941,41,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SMI,A350-941,77,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SML,A350-941,96,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SMM,A350-941,99,Singapore Airlines,False,03/01/2025 - 04:13
+9V-SMN,A350-941,107,Singapore Airlines,False,03/01/2025 - 04:13
+B-18912,A350-941,162,China Airlines,False,03/01/2025 - 04:13
+B-18906,A350-941,92,China Airlines,False,03/01/2025 - 04:13
+B-30C0,A350-941,nan,China Southern Airlines,False,03/01/2025 - 04:13
+N510DN,A350-941,204,Delta Air Lines,False,03/01/2025 - 04:13
+EI-IFD,A350-941,nan,Italian Airways,False,03/01/2025 - 04:13
+F-HTYI,A350-941,491,Air France,False,03/01/2025 - 04:13
+F-HTYB,A350-941,349,Air France,False,03/01/2025 - 04:13
+F-HTYG,A350-941,479,Air France,True,03/01/2025 - 04:13
+F-HTYP,A350-941,nan,Air France,False,03/01/2025 - 04:13
+F-HREU,A350-941,5,French Bee,False,03/01/2025 - 04:13
+HL7579,A350-941,176,Asiana Airlines,False,03/01/2025 - 04:13
+N506DN,A350-941,175,Delta Air Lines,False,03/01/2025 - 04:13
+DQ-FAI,A350-941,nan,Fiji Airways,False,03/01/2025 - 04:13
+F-HMIX,A350-1041,nan,French Bee,False,03/01/2025 - 04:13
+B-LRX,A350-941,155,Cathay Pacific,False,03/01/2025 - 04:13
+B-LRU,A350-941,148,Cathay Pacific,False,03/01/2025 - 04:13
+B-LXE,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 04:13
+B-LXF,A350-1041,nan,Cathay Pacific,False,03/01/2025 - 04:13
+B-LQB,A350-941,337,Cathay Pacific,False,03/01/2025 - 04:13
+B-LXN,A350-1041,nan,Cathay Pacific,True,03/01/2025 - 04:13
+G-XWBI,A350-1041,nan,British Airways,False,03/01/2025 - 04:13
+A7-ANR,A350-1041,nan,Qatar Airways,False,03/01/2025 - 04:13
+D-AIVC,A350-941,nan,Lufthansa,False,03/01/2025 - 04:13
+A7-ALU,A350-941,100,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALR,A350-941,78,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALO,A350-941,63,Qatar Airways,False,03/01/2025 - 04:13
+HS-THD,A350-941,95,Thai Airways,False,03/01/2025 - 04:13
+HS-THF,A350-941,123,Thai Airways,False,03/01/2025 - 04:13
+HS-THB,A350-941,44,Thai Airways,False,03/01/2025 - 04:13
+A7-AMH,A350-941,nan,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALC,A350-941,9,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALD,A350-941,10,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALB,A350-941,7,Qatar Airways,False,03/01/2025 - 04:13
+A7-AMK,A350-941,nan,Qatar Airways,False,03/01/2025 - 04:13
+A7-ALG,A350-941,13,Qatar Airways,False,03/01/2025 - 04:13
