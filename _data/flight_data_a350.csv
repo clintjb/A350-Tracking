@@ -1,24 +1,19 @@
 A/C,Type,MSN,Operator,Grounded,Export
-B-324X,A350-941,nan,China Eastern Airlines,False,24/05/2025 - 00:59
-B-LRD,A350-941,38,Cathay Pacific,True,24/05/2025 - 00:59
-OH-LWB,A350-941,19,Finnair,False,24/05/2025 - 00:59
-HL8078,A350-941,94,Asiana Airlines,False,24/05/2025 - 00:59
-HL8382,A350-941,nan,Asiana Airlines,False,24/05/2025 - 00:59
-F-HTYD,A350-941,381,Air France,False,24/05/2025 - 00:59
-F-HTYF,A350-941,nan,Air France,False,24/05/2025 - 00:59
-F-HTYP,A350-941,nan,Air France,False,24/05/2025 - 00:59
-B-LRX,A350-941,155,Cathay Pacific,False,24/05/2025 - 00:59
-B-LXJ,A350-1041,nan,Cathay Pacific,False,24/05/2025 - 00:59
-B-LXN,A350-1041,nan,Cathay Pacific,False,24/05/2025 - 00:59
-B-LQD,A350-941,nan,Cathay Pacific,False,24/05/2025 - 00:59
-A7-ANG,A350-1041,nan,Qatar Airways,False,24/05/2025 - 00:59
-A7-ALT,A350-941,90,Qatar Airways,False,24/05/2025 - 00:59
-A7-ALN,A350-941,47,Qatar Airways,False,24/05/2025 - 00:59
-D-AIXE,A350-941,136,Lufthansa,False,24/05/2025 - 00:59
-D-AIXC,A350-941,87,Lufthansa,False,24/05/2025 - 00:59
-D-AIXG,A350-941,174,Lufthansa,False,24/05/2025 - 00:59
-JA14XJ,A350-941,nan,Japan Airlines,False,24/05/2025 - 00:59
-9V-SGB,A350-941,nan,Singapore Airlines,False,24/05/2025 - 00:59
-9V-SME,A350-941,41,Singapore Airlines,False,24/05/2025 - 00:59
-9V-SMI,A350-941,77,Singapore Airlines,False,24/05/2025 - 00:59
-9V-SMO,A350-941,116,Singapore Airlines,False,24/05/2025 - 00:59
+B-327V,A350-941,nan,Air China,False,24/05/2025 - 04:14
+B-LRD,A350-941,38,Cathay Pacific,True,24/05/2025 - 04:14
+B-18905,A350-941,73,China Airlines,False,24/05/2025 - 04:14
+ET-ATR,A350-941,43,Ethiopian Airlines,False,24/05/2025 - 04:14
+HL8078,A350-941,94,Asiana Airlines,False,24/05/2025 - 04:14
+F-HTYD,A350-941,381,Air France,False,24/05/2025 - 04:14
+F-HTYP,A350-941,nan,Air France,False,24/05/2025 - 04:14
+DQ-FAI,A350-941,nan,Fiji Airways,True,24/05/2025 - 04:14
+B-LXN,A350-1041,nan,Cathay Pacific,False,24/05/2025 - 04:14
+A7-AND,A350-1041,nan,Qatar Airways,False,24/05/2025 - 04:14
+A7-ALN,A350-941,47,Qatar Airways,False,24/05/2025 - 04:14
+JA14XJ,A350-941,nan,Japan Airlines,False,24/05/2025 - 04:14
+9V-SGB,A350-941,nan,Singapore Airlines,False,24/05/2025 - 04:14
+9V-SMW,A350-941,nan,Singapore Airlines,False,24/05/2025 - 04:14
+9M-MAB,A350-941,nan,Malaysia Airlines,False,24/05/2025 - 04:14
+EC-NBO,A350-941,293,Evelop Airlines,False,24/05/2025 - 04:14
+F-HREY,A350-941,325,French Bee,False,24/05/2025 - 04:14
+N515DN,A350-941,404,Delta Air Lines,False,24/05/2025 - 04:14
