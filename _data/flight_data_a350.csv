@@ -1,11 +1,9 @@
 A/C,Type,MSN,Operator,Grounded,Export
-EC-NOI,A350-941,448,World2fly,False,16/07/2025 - 08:18
-B-LRC,A350-941,34,Cathay Pacific,False,16/07/2025 - 08:18
-9V-SHO,A350-941,nan,Singapore Airlines,True,16/07/2025 - 08:18
-ET-ATR,A350-941,43,Ethiopian Airlines,False,16/07/2025 - 08:18
-B-LXG,A350-1041,nan,Cathay Pacific,False,16/07/2025 - 08:18
-B-LXO,A350-1041,nan,Cathay Pacific,False,16/07/2025 - 08:18
-B-LXP,A350-1041,503,Cathay Pacific,False,16/07/2025 - 08:18
-HS-THF,A350-941,123,Thai Airways,False,16/07/2025 - 08:18
-D-AIXF,A350-941,146,Lufthansa,False,16/07/2025 - 08:18
-JA10XJ,A350-941,nan,Japan Airlines,False,16/07/2025 - 08:18
+B-LRC,A350-941,34,Cathay Pacific,False,16/07/2025 - 12:27
+F-HSIS,A350-1041,nan,Air Caraïbes,False,16/07/2025 - 12:27
+B-18903,A350-941,66,China Airlines,False,16/07/2025 - 12:27
+B-LXB,A350-1041,nan,Cathay Pacific,False,16/07/2025 - 12:27
+B-LXP,A350-1041,503,Cathay Pacific,False,16/07/2025 - 12:27
+HS-THF,A350-941,123,Thai Airways,False,16/07/2025 - 12:27
+G-VPOP,A350-1041,298,Virgin Atlantic,False,16/07/2025 - 12:27
+9V-SMN,A350-941,107,Singapore Airlines,False,16/07/2025 - 12:27
