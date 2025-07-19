@@ -1,31 +1,12 @@
 A/C,Type,MSN,Operator,Grounded,Export
-TC-LGG,A350-941,nan,Turkish Airlines,False,19/07/2025 - 16:14
-TC-LGF,A350-941,nan,Turkish Airlines,False,19/07/2025 - 16:14
-EC-NIG,A350-941,397,Iberia Airlines,False,19/07/2025 - 16:14
-G-XWBH,A350-1041,nan,British Airways,False,19/07/2025 - 16:14
-G-XWBG,A350-1041,432,British Airways,False,19/07/2025 - 16:14
-B-18915,A350-941,179,China Airlines,False,19/07/2025 - 16:14
-A7-ANF,A350-1041,161,Qatar Airways,False,19/07/2025 - 16:14
-A7-ANO,A350-1041,nan,Qatar Airways,False,19/07/2025 - 16:14
-A7-ANN,A350-1041,356,Qatar Airways,False,19/07/2025 - 16:14
-A7-ALB,A350-941,7,Qatar Airways,False,19/07/2025 - 16:14
-9V-SMV,A350-941,nan,Singapore Airlines,False,19/07/2025 - 16:14
-9V-SMW,A350-941,nan,Singapore Airlines,False,19/07/2025 - 16:14
-9V-SMN,A350-941,107,Singapore Airlines,False,19/07/2025 - 16:14
-N515DN,A350-941,404,Delta Air Lines,False,19/07/2025 - 16:14
-B-LRE,A350-941,39,Cathay Pacific,False,19/07/2025 - 16:14
-B-LRR,A350-941,119,Cathay Pacific,False,19/07/2025 - 16:14
-OH-LWC,A350-941,20,Finnair,False,19/07/2025 - 16:14
-OH-LWE,A350-941,23,Finnair,False,19/07/2025 - 16:14
-OH-LWB,A350-941,19,Finnair,True,19/07/2025 - 16:14
-OH-LWM,A350-941,nan,Finnair,False,19/07/2025 - 16:14
-9V-SHU,A350-941,nan,Singapore Airlines,False,19/07/2025 - 16:14
-9V-SJA,A350-941,nan,Singapore Airlines,False,19/07/2025 - 16:14
-B-307C,A350-941,nan,Air China,False,19/07/2025 - 16:14
-HL8360,A350-941,nan,Asiana Airlines,False,19/07/2025 - 16:14
-F-HTYD,A350-941,381,Air France,False,19/07/2025 - 16:14
-G-XWBK,A350-1041,nan,British Airways,False,19/07/2025 - 16:14
-G-XWBJ,A350-1041,nan,British Airways,False,19/07/2025 - 16:14
-D-AIXE,A350-941,136,Lufthansa,False,19/07/2025 - 16:14
-D-AIXC,A350-941,87,Lufthansa,False,19/07/2025 - 16:14
-EC-NXD,A350-941,nan,Iberia Airlines,False,19/07/2025 - 16:14
+A7-AND,A350-1041,nan,Qatar Airways,False,19/07/2025 - 20:13
+A7-ANO,A350-1041,nan,Qatar Airways,False,19/07/2025 - 20:13
+A7-ALB,A350-941,7,Qatar Airways,False,19/07/2025 - 20:13
+F-HREY,A350-941,325,French Bee,False,19/07/2025 - 20:13
+B-LRE,A350-941,39,Cathay Pacific,False,19/07/2025 - 20:13
+OH-LWC,A350-941,20,Finnair,False,19/07/2025 - 20:13
+9V-SJA,A350-941,nan,Singapore Airlines,False,19/07/2025 - 20:13
+ET-ATR,A350-941,43,Ethiopian Airlines,False,19/07/2025 - 20:13
+HL8360,A350-941,nan,Asiana Airlines,False,19/07/2025 - 20:13
+D-AIXE,A350-941,136,Lufthansa,False,19/07/2025 - 20:13
+D-AIXD,A350-941,127,Lufthansa,False,19/07/2025 - 20:13
