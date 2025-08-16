@@ -1,6 +1,9 @@
 A/C,Type,MSN,Operator,Grounded,Export
-B-LRC,A350-941,34,Cathay Pacific,False,16/08/2025 - 08:15
-9V-SHG,A350-941,nan,Singapore Airlines,False,16/08/2025 - 08:15
-N517DZ,A350-941,545,Delta Air Lines,False,16/08/2025 - 08:15
-F-HTYH,A350-941,488,Air France,False,16/08/2025 - 08:15
-B-LXJ,A350-1041,nan,Cathay Pacific,True,16/08/2025 - 08:15
+B-LRC,A350-941,34,Cathay Pacific,False,16/08/2025 - 12:23
+F-HTYM,A350-941,nan,Air France,False,16/08/2025 - 12:23
+A7-ANG,A350-1041,nan,Qatar Airways,False,16/08/2025 - 12:23
+A7-AMF,A350-941,nan,Qatar Airways,False,16/08/2025 - 12:23
+JA09XJ,A350-941,497,Japan Airlines,False,16/08/2025 - 12:23
+9V-SGB,A350-941,nan,Singapore Airlines,False,16/08/2025 - 12:23
+9V-SMV,A350-941,nan,Singapore Airlines,False,16/08/2025 - 12:23
+G-VDOT,A350-1041,nan,Virgin Atlantic Airways,False,16/08/2025 - 12:23
