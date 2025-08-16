@@ -1,12 +1,6 @@
 A/C,Type,MSN,Operator,Grounded,Export
-TC-LGH,A350-941,nan,Turkish Airlines,False,16/08/2025 - 04:18
-B-LRC,A350-941,34,Cathay Pacific,False,16/08/2025 - 04:18
-OH-LWD,A350-941,22,Finnair,False,16/08/2025 - 04:18
-B-18918,A350-941,nan,China Airlines,False,16/08/2025 - 04:18
-HL8383,A350-941,nan,Asiana Airlines,False,16/08/2025 - 04:18
-A7-AND,A350-1041,nan,Qatar Airways,False,16/08/2025 - 04:18
-A7-ALT,A350-941,90,Qatar Airways,False,16/08/2025 - 04:18
-A7-ALS,A350-941,83,Qatar Airways,False,16/08/2025 - 04:18
-A7-AMF,A350-941,nan,Qatar Airways,False,16/08/2025 - 04:18
-A7-ALB,A350-941,7,Qatar Airways,False,16/08/2025 - 04:18
-D-AIXP,A350-941,390,Lufthansa,False,16/08/2025 - 04:18
+B-LRC,A350-941,34,Cathay Pacific,False,16/08/2025 - 08:15
+9V-SHG,A350-941,nan,Singapore Airlines,False,16/08/2025 - 08:15
+N517DZ,A350-941,545,Delta Air Lines,False,16/08/2025 - 08:15
+F-HTYH,A350-941,488,Air France,False,16/08/2025 - 08:15
+B-LXJ,A350-1041,nan,Cathay Pacific,True,16/08/2025 - 08:15
