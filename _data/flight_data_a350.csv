@@ -1,55 +1,68 @@
 A/C,Type,MSN,Operator,Grounded,Export
-B-320S,A350-941,nan,China Southern Airlines,False,06/04/2026 - 16:37
-B-322Y,A350-941,nan,Air China,False,06/04/2026 - 16:37
-B-324S,A350-941,nan,China Southern Airlines,False,06/04/2026 - 16:37
-TC-LGF,A350-941,nan,Turkish Airlines,False,06/04/2026 - 16:37
-TC-LGA,A350-941,nan,Turkish Airlines,False,06/04/2026 - 16:37
-N501DN,A350-941,115,Delta Air Lines,False,06/04/2026 - 16:37
-B-327V,A350-941,nan,Air China,False,06/04/2026 - 16:37
-B-LRK,A350-941,70,Cathay Pacific,True,06/04/2026 - 16:37
-B-LRG,A350-941,53,Cathay Pacific,False,06/04/2026 - 16:37
-OH-LWC,A350-941,20,Finnair,False,06/04/2026 - 16:37
-OH-LWA,A350-941,18,Finnair,False,06/04/2026 - 16:37
-OH-LWR,A350-941,nan,Finnair,False,06/04/2026 - 16:37
-OH-LWN,A350-941,nan,Finnair,False,06/04/2026 - 16:37
-G-XWBF,A350-1041,402,British Airways,False,06/04/2026 - 16:37
-N504DN,A350-941,160,Delta Air Lines,False,06/04/2026 - 16:37
-B-18902,A350-941,57,China Airlines,False,06/04/2026 - 16:37
-B-18905,A350-941,73,China Airlines,False,06/04/2026 - 16:37
-B-306N,A350-941,nan,Sichuan Airlines,False,06/04/2026 - 16:37
-B-18908,A350-941,121,China Airlines,False,06/04/2026 - 16:37
-B-18907,A350-941,105,China Airlines,False,06/04/2026 - 16:37
-B-18918,A350-941,nan,China Airlines,False,06/04/2026 - 16:37
-HL8362,A350-941,nan,Asiana Airlines,False,06/04/2026 - 16:37
-HL8308,A350-941,nan,Asiana Airlines,False,06/04/2026 - 16:37
-F-HTYF,A350-941,nan,Air France,False,06/04/2026 - 16:37
-F-HTYG,A350-941,479,Air France,False,06/04/2026 - 16:37
-F-HTYM,A350-941,nan,Air France,False,06/04/2026 - 16:37
-B-LRX,A350-941,155,Cathay Pacific,True,06/04/2026 - 16:37
-B-LXE,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 16:37
-B-LXJ,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 16:37
-B-LXP,A350-1041,503,Cathay Pacific,False,06/04/2026 - 16:37
-A7-ALS,A350-941,83,Qatar Airways,False,06/04/2026 - 16:37
-HS-THG,A350-941,130,Thai Airways,False,06/04/2026 - 16:37
-A7-AMI,A350-941,nan,Qatar Airways,False,06/04/2026 - 16:37
-A7-ALE,A350-941,8,Qatar Airways,False,06/04/2026 - 16:37
-A7-ALJ,A350-941,25,Qatar Airways,False,06/04/2026 - 16:37
-D-AIXE,A350-941,136,Lufthansa,False,06/04/2026 - 16:37
-D-AIXI,A350-941,nan,Lufthansa,False,06/04/2026 - 16:37
-D-AIXH,A350-941,184,Lufthansa,False,06/04/2026 - 16:37
-D-AIXK,A350-941,212,Lufthansa,False,06/04/2026 - 16:37
-D-AIXN,A350-941,292,Lufthansa,False,06/04/2026 - 16:37
-D-AIXL,A350-941,255,Lufthansa,True,06/04/2026 - 16:37
-3B-NBP,A350-941,145,Air Mauritius,False,06/04/2026 - 16:37
-G-VLUX,A350-1041,nan,Virgin Atlantic Airways,False,06/04/2026 - 16:37
-G-VPOP,A350-1041,298,Virgin Atlantic,False,06/04/2026 - 16:37
-9V-SGA,A350-941,nan,Singapore Airlines,False,06/04/2026 - 16:37
-9V-SGE,A350-941,nan,Saudia,False,06/04/2026 - 16:37
-9V-SGC,A350-941,nan,Singapore Airlines,False,06/04/2026 - 16:37
-9V-SMA,A350-941,26,Singapore Airlines,False,06/04/2026 - 16:37
-9V-SMH,A350-941,68,Singapore Airlines,False,06/04/2026 - 16:37
-9V-SMR,A350-941,140,Singapore Airlines,False,06/04/2026 - 16:37
-9V-SMS,A350-941,158,Singapore Airlines,False,06/04/2026 - 16:37
-HL7771,A350-941,nan,Asiana Airlines,False,06/04/2026 - 16:37
-N515DN,A350-941,404,Delta Air Lines,False,06/04/2026 - 16:37
-D-AIVC,A350-941,nan,Lufthansa,False,06/04/2026 - 16:37
+N505DN,A350-941,164,Delta Air Lines,False,06/04/2026 - 20:30
+SE-RSC,A350-941,nan,SAS Airlines,False,06/04/2026 - 20:30
+B-324S,A350-941,nan,China Southern Airlines,False,06/04/2026 - 20:30
+G-VEVE,A350-1041,nan,Virgin Atlantic Airways,False,06/04/2026 - 20:30
+TC-LGH,A350-941,nan,Turkish Airlines,False,06/04/2026 - 20:30
+TC-LGA,A350-941,nan,Turkish Airlines,False,06/04/2026 - 20:30
+N501DN,A350-941,115,Delta Air Lines,False,06/04/2026 - 20:30
+B-LRB,A350-941,32,Cathay Pacific,True,06/04/2026 - 20:30
+B-LRG,A350-941,53,Cathay Pacific,False,06/04/2026 - 20:30
+B-LRS,A350-941,128,Cathay Pacific,False,06/04/2026 - 20:30
+A6-XWA,A350-1041,nan,Etihad Airways,False,06/04/2026 - 20:30
+EC-NIG,A350-941,397,Iberia Airlines,False,06/04/2026 - 20:30
+9V-SHD,A350-941,nan,Singapore Airlines,False,06/04/2026 - 20:30
+G-XWBH,A350-1041,nan,British Airways,False,06/04/2026 - 20:30
+G-XWBG,A350-1041,432,British Airways,False,06/04/2026 - 20:30
+EC-NLP,A350-941,nan,Iberia Airlines,False,06/04/2026 - 20:30
+N504DN,A350-941,160,Delta Air Lines,False,06/04/2026 - 20:30
+B-18902,A350-941,57,China Airlines,False,06/04/2026 - 20:30
+B-18905,A350-941,73,China Airlines,False,06/04/2026 - 20:30
+B-18908,A350-941,121,China Airlines,False,06/04/2026 - 20:30
+B-308C,A350-941,nan,Air China,False,06/04/2026 - 20:30
+B-18906,A350-941,92,China Airlines,False,06/04/2026 - 20:30
+B-18907,A350-941,105,China Airlines,False,06/04/2026 - 20:30
+HL8359,A350-941,nan,Asiana Airlines,False,06/04/2026 - 20:30
+HL8308,A350-941,nan,Asiana Airlines,False,06/04/2026 - 20:30
+F-HTYH,A350-941,488,Air France,False,06/04/2026 - 20:30
+F-HTYI,A350-941,491,Air France,False,06/04/2026 - 20:30
+F-HTYN,A350-941,nan,Air France,False,06/04/2026 - 20:30
+DQ-FAI,A350-941,nan,Fiji Airways,True,06/04/2026 - 20:30
+B-LRV,A350-941,154,Cathay Pacific,True,06/04/2026 - 20:30
+B-LXD,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 20:30
+B-LXG,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 20:30
+B-LXF,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 20:30
+B-LXJ,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 20:30
+B-LXM,A350-1041,nan,Cathay Pacific,True,06/04/2026 - 20:30
+B-LXN,A350-1041,nan,Cathay Pacific,False,06/04/2026 - 20:30
+B-LXP,A350-1041,503,Cathay Pacific,False,06/04/2026 - 20:30
+G-XWBI,A350-1041,nan,British Airways,False,06/04/2026 - 20:30
+A7-ANK,A350-1041,332,Qatar Airways,False,06/04/2026 - 20:30
+A7-ANI,A350-1041,nan,Qatar Airways,False,06/04/2026 - 20:30
+A7-ANF,A350-1041,161,Qatar Airways,False,06/04/2026 - 20:30
+A7-ALN,A350-941,47,Qatar Airways,False,06/04/2026 - 20:30
+HS-THG,A350-941,130,Thai Airways,False,06/04/2026 - 20:30
+HS-THC,A350-941,50,Thai Airways,False,06/04/2026 - 20:30
+HS-THB,A350-941,44,Thai Airways,False,06/04/2026 - 20:30
+A7-AMI,A350-941,nan,Qatar Airways,False,06/04/2026 - 20:30
+A7-AME,A350-941,nan,Qatar Airways,True,06/04/2026 - 20:30
+D-AIXA,A350-941,74,Lufthansa,False,06/04/2026 - 20:30
+D-AIXC,A350-941,87,Lufthansa,False,06/04/2026 - 20:30
+D-AIXG,A350-941,174,Lufthansa,False,06/04/2026 - 20:30
+D-AIXR,A350-941,nan,Lufthansa,False,06/04/2026 - 20:30
+D-AIXJ,A350-941,209,Lufthansa,False,06/04/2026 - 20:30
+D-AIXO,A350-941,314,Lufthansa,False,06/04/2026 - 20:30
+D-AIXN,A350-941,292,Lufthansa,False,06/04/2026 - 20:30
+RP-C3501,A350-941,nan,Philippine Airlines,False,06/04/2026 - 20:30
+VN-A892,A350-941,86,Vietnam Airlines,False,06/04/2026 - 20:30
+VN-A893,A350-941,129,Vietnam Airlines,False,06/04/2026 - 20:30
+9V-SGB,A350-941,nan,Singapore Airlines,False,06/04/2026 - 20:30
+G-VJAM,A350-1041,nan,Virgin Atlantic Airways,False,06/04/2026 - 20:30
+9V-SMD,A350-941,37,Singapore Airlines,False,06/04/2026 - 20:30
+9V-SMF,A350-941,54,Singapore Airlines,False,06/04/2026 - 20:30
+9M-MAB,A350-941,nan,Malaysia Airlines,False,06/04/2026 - 20:30
+G-XWBC,A350-1041,nan,British Airways,False,06/04/2026 - 20:30
+EC-NCX,A350-941,nan,Iberia Airlines,False,06/04/2026 - 20:30
+N519DN,A350-941,588,Delta Air Lines,False,06/04/2026 - 20:30
+EC-NXD,A350-941,nan,Iberia Airlines,True,06/04/2026 - 20:30
+N506DN,A350-941,175,Delta Air Lines,False,06/04/2026 - 20:30
