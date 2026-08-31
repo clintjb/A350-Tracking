@@ -1,8 +1,6 @@
 name: Automatic A350 Data Trigger
 
-on:
-  schedule:
-    - cron: "0 */4 * * *"
+on: workflow_dispatch
 
 jobs:
   build:
