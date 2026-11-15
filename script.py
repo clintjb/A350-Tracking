@@ -59,10 +59,17 @@ fig.update_layout(
 
 # Prepare Dataset For Export
 data_export = flight_data_a350[['registration','model','serialnumber','operatorplain','on_ground']]
-data_export['serialnumber'] = data_export['serialnumber'].astype(str).apply(lambda x: x.replace('.0',''))
+data_export['serialnumber'] = data_export['serialnumber'].apply(
+    lambda x: str(int(x)) if pd.notna(x) and isinstance(x, (int, float)) else str(x) if pd.notna(x) else ''
+)
 data_export['Export'] = datetime.today().strftime('%d/%m/%Y - %H:%M')
-data_export.rename(columns = {'registration': 'A/C', 'model': 'Type', 'operatorplain': 'Operator', 'on_ground': 'Grounded', 'serialnumber': 'MSN'}, inplace=True)
-
+data_export.rename(columns = {
+    'registration': 'A/C',
+    'model': 'Type',
+    'operatorplain': 'Operator',
+    'on_ground': 'Grounded',
+    'serialnumber': 'MSN'
+}, inplace=True)
 
 # Export Data
 data_export.to_csv('_data/flight_data_a350.csv', index=False)
